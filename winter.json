@@ -1,518 +1,518 @@
 {
- "updated": "Fri., Nov. 20, 2026",
- "note": "Compiled from FIS, IBU, ISU, FIL and news reports. Lines marked \"ask for a refresh\" have no confirmed data yet.",
- "sports": [
-  {
-   "name": "Alpine Skiing",
-   "blocks": [
+  "updated": "Sun., Nov. 22, 2026 (link test)",
+  "note": "Compiled from FIS, IBU, ISU, FIL and news reports. Lines marked \"ask for a refresh\" have no confirmed data yet.",
+  "sports": [
     {
-     "title": "World Cup · Results",
-     "rows": [
-      {
-       "kind": "sub",
-       "left": "Men's slalom · Levi (FIN) · Sun., Nov. 15"
-      },
-      {
-       "left": "1. Lucas Pinheiro Braathen (BRA)",
-       "right": "Winner"
-      },
-      {
-       "left": "2. Clément Noël (FRA)",
-       "right": ""
-      },
-      {
-       "left": "6. Paco Rassat (FRA)",
-       "right": ""
-      },
-      {
-       "left": "7. Atle Lie McGrath (NOR)",
-       "right": ""
-      },
-      {
-       "left": "13. Linus Straßer (GER)",
-       "right": ""
-      },
-      {
-       "left": "15. Billy Major (GBR)",
-       "right": ""
-      },
-      {
-       "left": "19. Henrik Kristoffersen (NOR)",
-       "right": ""
-      },
-      {
-       "left": "22. Johannes Strolz (AUT)",
-       "right": "Only Austrian to score"
-      },
-      {
-       "kind": "note",
-       "left": "Braathen has won both races this season (Sölden GS, Levi SL) and leads the overall with the maximum 200 points."
-      },
-      {
-       "kind": "sub",
-       "left": "Women's slalom · Levi (FIN) · Sat., Nov. 14"
-      },
-      {
-       "left": "1. Emma Aicher (GER)",
-       "right": "First career slalom win"
-      },
-      {
-       "kind": "note",
-       "left": "Aicher and Lara Colturi share the overall lead."
-      },
-      {
-       "kind": "sub",
-       "left": "Season opener · Sölden (AUT) · Oct. 24–25"
-      },
-      {
-       "left": "Women's giant slalom: Paula Moltzan (USA) won",
-       "right": ""
-      },
-      {
-       "left": "Men's giant slalom: Lucas Pinheiro Braathen (BRA) won",
-       "right": ""
-      }
-     ]
+      "name": "Alpine Skiing",
+      "blocks": [
+        {
+          "title": "World Cup · Results",
+          "rows": [
+            {
+              "kind": "sub",
+              "left": "Men's slalom · Levi (FIN) · Sun., Nov. 15"
+            },
+            {
+              "left": "1. Lucas Pinheiro Braathen (BRA)",
+              "right": "Winner"
+            },
+            {
+              "left": "2. Clément Noël (FRA)",
+              "right": ""
+            },
+            {
+              "left": "6. Paco Rassat (FRA)",
+              "right": ""
+            },
+            {
+              "left": "7. Atle Lie McGrath (NOR)",
+              "right": ""
+            },
+            {
+              "left": "13. Linus Straßer (GER)",
+              "right": ""
+            },
+            {
+              "left": "15. Billy Major (GBR)",
+              "right": ""
+            },
+            {
+              "left": "19. Henrik Kristoffersen (NOR)",
+              "right": ""
+            },
+            {
+              "left": "22. Johannes Strolz (AUT)",
+              "right": "Only Austrian to score"
+            },
+            {
+              "kind": "note",
+              "left": "Braathen has won both races this season (Sölden GS, Levi SL) and leads the overall with the maximum 200 points."
+            },
+            {
+              "kind": "sub",
+              "left": "Women's slalom · Levi (FIN) · Sat., Nov. 14"
+            },
+            {
+              "left": "1. Emma Aicher (GER)",
+              "right": "First career slalom win"
+            },
+            {
+              "kind": "note",
+              "left": "Aicher and Lara Colturi share the overall lead."
+            },
+            {
+              "kind": "sub",
+              "left": "Season opener · Sölden (AUT) · Oct. 24–25"
+            },
+            {
+              "left": "Women's giant slalom: Paula Moltzan (USA) won",
+              "right": ""
+            },
+            {
+              "left": "Men's giant slalom: Lucas Pinheiro Braathen (BRA) won",
+              "right": ""
+            }
+          ]
+        },
+        {
+          "title": "Coming up",
+          "rows": [
+            {
+              "left": "Slalom, women and men · Gurgl (AUT)",
+              "right": "Sat.–Sun., Nov. 21–22"
+            },
+            {
+              "kind": "note",
+              "left": "The U.S. World Cup swing starts Thanksgiving weekend."
+            }
+          ]
+        }
+      ]
     },
     {
-     "title": "Coming up",
-     "rows": [
-      {
-       "left": "Slalom, women and men · Gurgl (AUT)",
-       "right": "Sat.–Sun., Nov. 21–22"
-      },
-      {
-       "kind": "note",
-       "left": "The U.S. World Cup swing starts Thanksgiving weekend."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Biathlon",
-   "blocks": [
-    {
-     "title": "World Cup 2026-27",
-     "rows": [
-      {
-       "kind": "sub",
-       "left": "Season opener · Kontiolahti (FIN) · Nov. 26–29"
-      },
-      {
-       "left": "Men's 20 km individual",
-       "right": "Thu., Nov. 26"
-      },
-      {
-       "left": "Women's 15 km individual",
-       "right": "Fri., Nov. 27"
-      },
-      {
-       "kind": "sub",
-       "left": "Then"
-      },
-      {
-       "left": "Hochfilzen (AUT)",
-       "right": "Dec. 1–6"
-      },
-      {
-       "kind": "note",
-       "left": "Season ends at Oslo Holmenkollen, Mar. 18–21. World Championships are in Otepää (EST) in February and don't count toward World Cup standings."
-      },
-      {
-       "kind": "note",
-       "left": "No results yet; the season hasn't started."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Bobsled & Skeleton",
-   "blocks": [
-    {
-     "title": "World Cup 2026-27",
-     "rows": [
-      {
-       "kind": "note",
-       "left": "Nothing confirmed for 2026-27 in this pass. Ask for a refresh."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Cross-Country Skiing",
-   "blocks": [
-    {
-     "title": "World Cup 2026-27",
-     "rows": [
-      {
-       "kind": "sub",
-       "left": "Season opener · Ruka (FIN) · Nov. 27–29"
-      },
-      {
-       "left": "10 km interval start, classic",
-       "right": "Fri., Nov. 27"
-      },
-      {
-       "left": "Sprint, classic",
-       "right": "Sat., Nov. 28"
-      },
-      {
-       "left": "20 km mass start, free",
-       "right": "Sun., Nov. 29"
-      },
-      {
-       "kind": "sub",
-       "left": "Then"
-      },
-      {
-       "left": "Trondheim (NOR)",
-       "right": "Dec. 4–6"
-      },
-      {
-       "left": "Davos (SUI)",
-       "right": "Dec. 11–13"
-      },
-      {
-       "left": "Tour de Ski",
-       "right": "Dec. 31–Jan. 10"
-      },
-      {
-       "kind": "note",
-       "left": "Dates come from FIS's published calendar; check for changes closer to each event."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Curling",
-   "blocks": [
-    {
-     "title": "2026-27 season",
-     "rows": [
-      {
-       "left": "Grand Slam of Curling: five Canadian events, opened with the GSOC Invitational in Victoria",
-       "right": "Oct. 13–18"
-      },
-      {
-       "left": "European Championships · Ostrava (CZE)",
-       "right": "Oct. 27–Nov. 1"
-      },
-      {
-       "left": "World Mixed Doubles Championship",
-       "right": "Jan. 4–10"
-      },
-      {
-       "kind": "note",
-       "left": "No results found in this pass. Ask for a refresh."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Figure Skating",
-   "blocks": [
-    {
-     "title": "Grand Prix 2026-27",
-     "rows": [
-      {
-       "kind": "note",
-       "left": "Couldn't confirm 2026-27 Grand Prix dates or results in this pass. Ask for a refresh."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Freestyle Skiing",
-   "blocks": [
-    {
-     "title": "World Cup 2026-27",
-     "rows": [
-      {
-       "left": "Big Air · Innsbruck (AUT) · freeski finals Nov. 27",
-       "right": "Nov. 26–28"
-      },
-      {
-       "left": "Big Air · Beijing (CHN)",
-       "right": "Dec. 3–6"
-      },
-      {
-       "left": "Ski cross · Val Thorens (FRA)",
-       "right": "Dec. 8–11"
-      },
-      {
-       "left": "Halfpipe · Secret Garden (CHN)",
-       "right": "Dec. 9–12"
-      },
-      {
-       "left": "Slopestyle · Breckenridge (USA)",
-       "right": "Dec. 10–13"
-      },
-      {
-       "left": "Moguls · Ruka (FIN)",
-       "right": "Dec. 12"
-      },
-      {
-       "left": "Ski cross · Arosa (SUI)",
-       "right": "Dec. 14–15"
-      },
-      {
-       "kind": "note",
-       "left": "Freestyle and snowboard World Championships are in Montafon (AUT) in March."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Ice Hockey",
-   "blocks": [
-    {
-     "title": "Olympic hockey",
-     "rows": [
-      {
-       "kind": "note",
-       "left": "Not in season. Next Olympics: 2030, French Alps. NHL and college hockey are on the Scores tab."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Luge",
-   "blocks": [
-    {
-     "title": "World Cup 2026-27",
-     "rows": [
-      {
-       "left": "Winterberg (GER)",
-       "right": "Nov. 23–29"
-      },
-      {
-       "left": "PyeongChang (KOR)",
-       "right": "Dec. 7–13"
-      },
-      {
-       "left": "Yanqing (CHN)",
-       "right": "Dec. 14–20"
-      },
-      {
-       "left": "Sigulda (LAT)",
-       "right": "Jan. 4–10"
-      },
-      {
-       "left": "Altenberg (GER)",
-       "right": "Jan. 11–17"
-      },
-      {
-       "left": "Oberhof (GER)",
-       "right": "Jan. 18–24"
-      },
-      {
-       "left": "World Championships · Innsbruck (AUT)",
-       "right": "Feb. 1–7"
-      },
-      {
-       "left": "Cortina (ITA)",
-       "right": "Feb. 8–14"
-      },
-      {
-       "left": "La Plagne (FRA)",
-       "right": "Feb. 15–21"
-      },
-      {
-       "left": "Königssee (GER)",
-       "right": "Mar. 1–7"
-      },
-      {
-       "kind": "note",
-       "left": "No results yet; the season opens Nov. 23."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Nordic Combined",
-   "blocks": [
-    {
-     "title": "World Cup 2026-27",
-     "rows": [
-      {
-       "left": "Ruka (FIN)",
-       "right": "Nov. 26–29"
-      },
-      {
-       "left": "Trondheim (NOR)",
-       "right": "Dec. 3–6"
-      },
-      {
-       "left": "Val di Fiemme (ITA)",
-       "right": "Dec. 10–13"
-      },
-      {
-       "left": "Ramsau (AUT)",
-       "right": "Dec. 17–20"
-      },
-      {
-       "left": "Klingenthal (GER)",
-       "right": "Jan. 8–10"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Short Track Speed Skating",
-   "blocks": [
-    {
-     "title": "World Tour 2026-27",
-     "rows": [
-      {
-       "kind": "note",
-       "left": "The ISU has published a 2026-27 calendar, but I couldn't confirm dates or results in this pass. Ask for a refresh."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Ski Jumping",
-   "blocks": [
-    {
-     "title": "World Cup 2026-27",
-     "rows": [
-      {
-       "kind": "sub",
-       "left": "Season opener"
-      },
-      {
-       "left": "Lillehammer (NOR), large hill",
-       "right": "Sat.–Sun., Nov. 21–22"
-      },
-      {
-       "left": "Ruka (FIN)",
-       "right": "Nov. 28"
-      },
-      {
-       "kind": "note",
-       "left": "Season finale: ski flying at Planica (SLO), Mar. 18–21."
-      },
-      {
-       "kind": "note",
-       "left": "No results yet; the season opens this weekend."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Ski Mountaineering",
-   "blocks": [
-    {
-     "title": "World Cup 2026-27",
-     "rows": [
-      {
-       "kind": "note",
-       "left": "Nothing confirmed for 2026-27 in this pass. Ask for a refresh."
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Snowboarding",
-   "blocks": [
-    {
-     "title": "World Cup 2026-27",
-     "rows": [
-      {
-       "left": "Big Air · Innsbruck (AUT) · snowboard finals Nov. 28",
-       "right": "Nov. 26–28"
-      },
-      {
-       "left": "Parallel giant slalom",
-       "right": "Nov. 28–29"
-      },
-      {
-       "left": "Big Air · Beijing (CHN)",
-       "right": "Dec. 3–6"
-      },
-      {
-       "left": "Halfpipe · Secret Garden (CHN)",
-       "right": "Dec. 9–12"
-      },
-      {
-       "left": "Slopestyle · Breckenridge (USA)",
-       "right": "Dec. 10–13"
-      },
-      {
-       "left": "Snowboard cross",
-       "right": "Dec. 11–13"
-      }
-     ]
-    }
-   ]
-  },
-  {
-   "name": "Speed Skating",
-   "blocks": [
-    {
-     "title": "World Cup #1 · Beijing (CHN) · Nov. 13–15",
-     "rows": [
-      {
-       "kind": "sub",
-       "left": "Results"
-      },
-      {
-       "left": "Men's 1,500 m: Ning Zhongyan (CHN) won",
-       "right": ""
-      },
-      {
-       "left": "Men's 500 m (1st): Lian Ziwen (CHN)",
-       "right": "First individual World Cup win"
-      },
-      {
-       "left": "Men's 500 m (2nd): 1. Gao Tingyu (CHN)",
-       "right": ""
-      },
-      {
-       "left": "2. Lian Ziwen (CHN)",
-       "right": "34.77"
-      },
-      {
-       "left": "3. Katsuhiro Kuratsubo (JPN)",
-       "right": "34.85"
-      },
-      {
-       "left": "Men's team pursuit: 1. Italy, 2. Japan, 3. United States",
-       "right": ""
-      },
-      {
-       "kind": "note",
-       "left": "China won four gold, two silver and three bronze medals."
-      }
-     ]
+      "name": "Biathlon",
+      "blocks": [
+        {
+          "title": "World Cup 2026-27",
+          "rows": [
+            {
+              "kind": "sub",
+              "left": "Season opener · Kontiolahti (FIN) · Nov. 26–29"
+            },
+            {
+              "left": "Men's 20 km individual",
+              "right": "Thu., Nov. 26"
+            },
+            {
+              "left": "Women's 15 km individual",
+              "right": "Fri., Nov. 27"
+            },
+            {
+              "kind": "sub",
+              "left": "Then"
+            },
+            {
+              "left": "Hochfilzen (AUT)",
+              "right": "Dec. 1–6"
+            },
+            {
+              "kind": "note",
+              "left": "Season ends at Oslo Holmenkollen, Mar. 18–21. World Championships are in Otepää (EST) in February and don't count toward World Cup standings."
+            },
+            {
+              "kind": "note",
+              "left": "No results yet; the season hasn't started."
+            }
+          ]
+        }
+      ]
     },
     {
-     "title": "Coming up",
-     "rows": [
-      {
-       "left": "World Cup #2 · Obihiro (JPN)",
-       "right": "This weekend, Nov. 20–22"
-      },
-      {
-       "left": "World Cup #3 · Netherlands",
-       "right": "Dec. 4–6"
-      }
-     ]
+      "name": "Bobsled & Skeleton",
+      "blocks": [
+        {
+          "title": "World Cup 2026-27",
+          "rows": [
+            {
+              "kind": "note",
+              "left": "Nothing confirmed for 2026-27 in this pass. Ask for a refresh."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cross-Country Skiing",
+      "blocks": [
+        {
+          "title": "World Cup 2026-27",
+          "rows": [
+            {
+              "kind": "sub",
+              "left": "Season opener · Ruka (FIN) · Nov. 27–29"
+            },
+            {
+              "left": "10 km interval start, classic",
+              "right": "Fri., Nov. 27"
+            },
+            {
+              "left": "Sprint, classic",
+              "right": "Sat., Nov. 28"
+            },
+            {
+              "left": "20 km mass start, free",
+              "right": "Sun., Nov. 29"
+            },
+            {
+              "kind": "sub",
+              "left": "Then"
+            },
+            {
+              "left": "Trondheim (NOR)",
+              "right": "Dec. 4–6"
+            },
+            {
+              "left": "Davos (SUI)",
+              "right": "Dec. 11–13"
+            },
+            {
+              "left": "Tour de Ski",
+              "right": "Dec. 31–Jan. 10"
+            },
+            {
+              "kind": "note",
+              "left": "Dates come from FIS's published calendar; check for changes closer to each event."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Curling",
+      "blocks": [
+        {
+          "title": "2026-27 season",
+          "rows": [
+            {
+              "left": "Grand Slam of Curling: five Canadian events, opened with the GSOC Invitational in Victoria",
+              "right": "Oct. 13–18"
+            },
+            {
+              "left": "European Championships · Ostrava (CZE)",
+              "right": "Oct. 27–Nov. 1"
+            },
+            {
+              "left": "World Mixed Doubles Championship",
+              "right": "Jan. 4–10"
+            },
+            {
+              "kind": "note",
+              "left": "No results found in this pass. Ask for a refresh."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Figure Skating",
+      "blocks": [
+        {
+          "title": "Grand Prix 2026-27",
+          "rows": [
+            {
+              "kind": "note",
+              "left": "Couldn't confirm 2026-27 Grand Prix dates or results in this pass. Ask for a refresh."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Freestyle Skiing",
+      "blocks": [
+        {
+          "title": "World Cup 2026-27",
+          "rows": [
+            {
+              "left": "Big Air · Innsbruck (AUT) · freeski finals Nov. 27",
+              "right": "Nov. 26–28"
+            },
+            {
+              "left": "Big Air · Beijing (CHN)",
+              "right": "Dec. 3–6"
+            },
+            {
+              "left": "Ski cross · Val Thorens (FRA)",
+              "right": "Dec. 8–11"
+            },
+            {
+              "left": "Halfpipe · Secret Garden (CHN)",
+              "right": "Dec. 9–12"
+            },
+            {
+              "left": "Slopestyle · Breckenridge (USA)",
+              "right": "Dec. 10–13"
+            },
+            {
+              "left": "Moguls · Ruka (FIN)",
+              "right": "Dec. 12"
+            },
+            {
+              "left": "Ski cross · Arosa (SUI)",
+              "right": "Dec. 14–15"
+            },
+            {
+              "kind": "note",
+              "left": "Freestyle and snowboard World Championships are in Montafon (AUT) in March."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ice Hockey",
+      "blocks": [
+        {
+          "title": "Olympic hockey",
+          "rows": [
+            {
+              "kind": "note",
+              "left": "Not in season. Next Olympics: 2030, French Alps. NHL and college hockey are on the Scores tab."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Luge",
+      "blocks": [
+        {
+          "title": "World Cup 2026-27",
+          "rows": [
+            {
+              "left": "Winterberg (GER)",
+              "right": "Nov. 23–29"
+            },
+            {
+              "left": "PyeongChang (KOR)",
+              "right": "Dec. 7–13"
+            },
+            {
+              "left": "Yanqing (CHN)",
+              "right": "Dec. 14–20"
+            },
+            {
+              "left": "Sigulda (LAT)",
+              "right": "Jan. 4–10"
+            },
+            {
+              "left": "Altenberg (GER)",
+              "right": "Jan. 11–17"
+            },
+            {
+              "left": "Oberhof (GER)",
+              "right": "Jan. 18–24"
+            },
+            {
+              "left": "World Championships · Innsbruck (AUT)",
+              "right": "Feb. 1–7"
+            },
+            {
+              "left": "Cortina (ITA)",
+              "right": "Feb. 8–14"
+            },
+            {
+              "left": "La Plagne (FRA)",
+              "right": "Feb. 15–21"
+            },
+            {
+              "left": "Königssee (GER)",
+              "right": "Mar. 1–7"
+            },
+            {
+              "kind": "note",
+              "left": "No results yet; the season opens Nov. 23."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Nordic Combined",
+      "blocks": [
+        {
+          "title": "World Cup 2026-27",
+          "rows": [
+            {
+              "left": "Ruka (FIN)",
+              "right": "Nov. 26–29"
+            },
+            {
+              "left": "Trondheim (NOR)",
+              "right": "Dec. 3–6"
+            },
+            {
+              "left": "Val di Fiemme (ITA)",
+              "right": "Dec. 10–13"
+            },
+            {
+              "left": "Ramsau (AUT)",
+              "right": "Dec. 17–20"
+            },
+            {
+              "left": "Klingenthal (GER)",
+              "right": "Jan. 8–10"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Short Track Speed Skating",
+      "blocks": [
+        {
+          "title": "World Tour 2026-27",
+          "rows": [
+            {
+              "kind": "note",
+              "left": "The ISU has published a 2026-27 calendar, but I couldn't confirm dates or results in this pass. Ask for a refresh."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ski Jumping",
+      "blocks": [
+        {
+          "title": "World Cup 2026-27",
+          "rows": [
+            {
+              "kind": "sub",
+              "left": "Season opener"
+            },
+            {
+              "left": "Lillehammer (NOR), large hill",
+              "right": "Sat.–Sun., Nov. 21–22"
+            },
+            {
+              "left": "Ruka (FIN)",
+              "right": "Nov. 28"
+            },
+            {
+              "kind": "note",
+              "left": "Season finale: ski flying at Planica (SLO), Mar. 18–21."
+            },
+            {
+              "kind": "note",
+              "left": "No results yet; the season opens this weekend."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Ski Mountaineering",
+      "blocks": [
+        {
+          "title": "World Cup 2026-27",
+          "rows": [
+            {
+              "kind": "note",
+              "left": "Nothing confirmed for 2026-27 in this pass. Ask for a refresh."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Snowboarding",
+      "blocks": [
+        {
+          "title": "World Cup 2026-27",
+          "rows": [
+            {
+              "left": "Big Air · Innsbruck (AUT) · snowboard finals Nov. 28",
+              "right": "Nov. 26–28"
+            },
+            {
+              "left": "Parallel giant slalom",
+              "right": "Nov. 28–29"
+            },
+            {
+              "left": "Big Air · Beijing (CHN)",
+              "right": "Dec. 3–6"
+            },
+            {
+              "left": "Halfpipe · Secret Garden (CHN)",
+              "right": "Dec. 9–12"
+            },
+            {
+              "left": "Slopestyle · Breckenridge (USA)",
+              "right": "Dec. 10–13"
+            },
+            {
+              "left": "Snowboard cross",
+              "right": "Dec. 11–13"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Speed Skating",
+      "blocks": [
+        {
+          "title": "World Cup #1 · Beijing (CHN) · Nov. 13–15",
+          "rows": [
+            {
+              "kind": "sub",
+              "left": "Results"
+            },
+            {
+              "left": "Men's 1,500 m: Ning Zhongyan (CHN) won",
+              "right": ""
+            },
+            {
+              "left": "Men's 500 m (1st): Lian Ziwen (CHN)",
+              "right": "First individual World Cup win"
+            },
+            {
+              "left": "Men's 500 m (2nd): 1. Gao Tingyu (CHN)",
+              "right": ""
+            },
+            {
+              "left": "2. Lian Ziwen (CHN)",
+              "right": "34.77"
+            },
+            {
+              "left": "3. Katsuhiro Kuratsubo (JPN)",
+              "right": "34.85"
+            },
+            {
+              "left": "Men's team pursuit: 1. Italy, 2. Japan, 3. United States",
+              "right": ""
+            },
+            {
+              "kind": "note",
+              "left": "China won four gold, two silver and three bronze medals."
+            }
+          ]
+        },
+        {
+          "title": "Coming up",
+          "rows": [
+            {
+              "left": "World Cup #2 · Obihiro (JPN)",
+              "right": "This weekend, Nov. 20–22"
+            },
+            {
+              "left": "World Cup #3 · Netherlands",
+              "right": "Dec. 4–6"
+            }
+          ]
+        }
+      ]
     }
-   ]
-  }
- ]
+  ]
 }
