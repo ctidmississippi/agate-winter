@@ -1680,6 +1680,100 @@
    ]
   },
   {
+   "name": "LA28 qualification",
+   "blocks": [
+    {
+     "title": "Where qualifying stands",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "Overall"
+      },
+      {
+       "left": "IOC approved qualification systems for 26 sports",
+       "right": "Aug. 27, 2025"
+      },
+      {
+       "kind": "note",
+       "left": "The rest were due in early 2026. Every federation must give athletes at least two chances to qualify."
+      },
+      {
+       "kind": "sub",
+       "left": "Windows open now"
+      },
+      {
+       "left": "Triathlon",
+       "right": "May 18, 2026 to May 18, 2028"
+      },
+      {
+       "kind": "note",
+       "left": "Two one-year parts. Each athlete's best 12 results count, with no more than eight from sprint-distance races. First event: WTCS Alghero 2026. Continental Games also award places."
+      },
+      {
+       "left": "Judo",
+       "right": "June 15, 2026 to June 12, 2028"
+      },
+      {
+       "kind": "note",
+       "left": "Top 17 on the Olympic ranking list in every weight category qualify. Final list June 15, 2028."
+      },
+      {
+       "left": "Shooting",
+       "right": "First places at the 2026 World Championship in Doha; runs to May 1, 2028"
+      },
+      {
+       "kind": "note",
+       "left": "Athletes also need the minimum qualification score. Extra places come from the Olympic ranking."
+      },
+      {
+       "kind": "sub",
+       "left": "Opening in 2027"
+      },
+      {
+       "left": "Swimming",
+       "right": "Starts Mar. 1, 2027; 830 places"
+      },
+      {
+       "left": "Open water swimming",
+       "right": "Starts at Worlds, Budapest, June 26 to July 18, 2027; 44 places"
+      },
+      {
+       "left": "Diving",
+       "right": "Starts at Budapest Worlds 2027; ends with World Cup stops 1 and 2 in 2028"
+      },
+      {
+       "left": "Artistic swimming",
+       "right": "Starts at Budapest Worlds 2027; 96 athletes (10 teams, 18 duets)"
+      },
+      {
+       "left": "Archery",
+       "right": "Starts at the 2027 World Championships, Medellin"
+      },
+      {
+       "kind": "note",
+       "left": "A last qualification event is held just before the Games in 2028. Universality places go to small delegations."
+      },
+      {
+       "left": "Athletics",
+       "right": "System and entry standards published Nov. 10, 2026"
+      },
+      {
+       "kind": "note",
+       "left": "Relays: the remaining teams come from the World Athletics performance list during the qualification period."
+      },
+      {
+       "kind": "sub",
+       "left": "Not compiled yet"
+      },
+      {
+       "kind": "note",
+       "left": "Other sports: ask for a refresh and they will be added here."
+      }
+     ]
+    }
+   ]
+  },
+  {
    "name": "LA28 overview",
    "blocks": [
     {
