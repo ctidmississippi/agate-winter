@@ -1,0 +1,784 @@
+{
+  "updated": "Sun., Nov. 22, 2026",
+  "note": "Compiled from LA28 and press reports. Dates and venues are the organizers' plan and subject to change. Lines marked 'ask for a refresh' have no compiled session dates yet.",
+  "sports": [
+    {
+      "name": "Games overview",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Opening Ceremony",
+              "right": "Fri., July 14, 2028"
+            },
+            {
+              "left": "Closing Ceremony",
+              "right": "Sun., July 30, 2028"
+            },
+            {
+              "left": "First full competition day (Day 1)",
+              "right": "Sat., July 15"
+            },
+            {
+              "left": "First medal: women's triathlon, Venice Beach",
+              "right": "July 15"
+            },
+            {
+              "left": "Women's 100 m final (Day 1); men's 100 m final (Day 2)",
+              "right": "July 15–16"
+            },
+            {
+              "left": "Swimming at SoFi Stadium (branded 2028 Stadium)",
+              "right": "July 22–30"
+            },
+            {
+              "left": "Super Saturday: 26 finals across 23 sports",
+              "right": "July 29"
+            },
+            {
+              "left": "Last medals: swimming",
+              "right": "July 30"
+            },
+            {
+              "left": "Paralympic Games",
+              "right": "Aug. 15–27, 2028"
+            },
+            {
+              "kind": "note",
+              "left": "36 sports, 351 to 353 medal events (counts vary by source). Some team-sport preliminaries begin before the Opening Ceremony; canoe slalom is the only sport on July 14. Track and field is in the first week and swimming in the second. Schedule is subject to change."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Aquatics",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Swimming",
+              "right": "SoFi Stadium · July 22–30"
+            },
+            {
+              "left": "Diving",
+              "right": "LA84 Foundation / John C. Argue Swim Stadium"
+            },
+            {
+              "left": "Artistic swimming",
+              "right": "Medals awarded; venue not compiled"
+            },
+            {
+              "left": "Marathon swimming",
+              "right": "Long Beach waterfront area; confirm"
+            },
+            {
+              "left": "Water polo",
+              "right": "Starts before the Opening Ceremony"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Archery",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "Dignity Health Sports Park, Carson"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Athletics",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "LA Memorial Coliseum"
+            },
+            {
+              "left": "Women's 100 m final",
+              "right": "July 15"
+            },
+            {
+              "left": "Men's 100 m final",
+              "right": "July 16"
+            },
+            {
+              "left": "4x100 m mixed relay final",
+              "right": "July 17"
+            },
+            {
+              "left": "Marathons",
+              "right": "Final weekend (July 29–30)"
+            },
+            {
+              "kind": "note",
+              "left": "Track and field takes the first week; swimming takes the second."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Badminton",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "Galen Center, Los Angeles"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Baseball & Softball",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Baseball",
+              "right": "Dodger Stadium, Los Angeles"
+            },
+            {
+              "left": "Baseball tournament begins",
+              "right": "July 13 (per one schedule)"
+            },
+            {
+              "left": "Softball",
+              "right": "Oklahoma City"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Basketball",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "5x5 basketball",
+              "right": "Preliminaries begin July 12 (per one schedule)"
+            },
+            {
+              "left": "3x3 basketball",
+              "right": "Sepulveda Basin Recreation Area"
+            },
+            {
+              "kind": "note",
+              "left": "Expanded 3x3 field. 5x5 venue not compiled."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Boxing",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "kind": "note",
+              "left": "New women's weight class added. Venue and dates not compiled."
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Canoeing",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Canoe slalom",
+              "right": "Oklahoma City · opens July 14"
+            },
+            {
+              "left": "Canoe slalom: first women's kayak final",
+              "right": "July 15"
+            },
+            {
+              "left": "Canoe sprint",
+              "right": "Marine Stadium, Long Beach"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cricket",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "Fairgrounds, Pomona (temporary stadium)"
+            },
+            {
+              "left": "Format",
+              "right": "T20"
+            },
+            {
+              "left": "Starts",
+              "right": "Before the Opening Ceremony (per one schedule)"
+            },
+            {
+              "kind": "note",
+              "left": "First Olympic cricket in over a century."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Cycling",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Track cycling",
+              "right": "VELO Sports Center, Carson"
+            },
+            {
+              "left": "BMX racing, BMX freestyle, mountain bike, road",
+              "right": "Venues not compiled"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Equestrian",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "Santa Anita Park, Arcadia"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Fencing",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "Los Angeles Convention Center"
+            },
+            {
+              "left": "Women's individual épée final",
+              "right": "July 15"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Field Hockey",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "Galaxy Park, Carson"
+            },
+            {
+              "left": "Starts",
+              "right": "July 12 (per one schedule)"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Flag Football",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Olympic debut",
+              "right": "Tournament begins July 15"
+            },
+            {
+              "kind": "note",
+              "left": "Venue not compiled."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Football (Soccer)",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "kind": "note",
+              "left": "Expanded women's field. Venues and dates not compiled."
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Golf",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "kind": "note",
+              "left": "Champions crowned on the final weekend. Venue and dates not compiled."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Gymnastics",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Rhythmic gymnastics",
+              "right": "Galen Center / USC Sports Center"
+            },
+            {
+              "left": "Artistic and trampoline",
+              "right": "Venues not compiled"
+            },
+            {
+              "kind": "note",
+              "left": "Team and all-around finals are in the first week."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Handball",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "Long Beach waterfront"
+            },
+            {
+              "left": "Starts",
+              "right": "July 12 (per one schedule)"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Judo",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "Los Angeles Convention Center"
+            },
+            {
+              "left": "Women's 49 kg final",
+              "right": "July 15"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Lacrosse",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "kind": "note",
+              "left": "Lacrosse sixes. Champions crowned on the final weekend. Venue and dates not compiled."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Modern Pentathlon",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "Sepulveda Basin Recreation Area"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rowing",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Rowing",
+              "right": "Marine Stadium, Long Beach"
+            },
+            {
+              "left": "Coastal rowing (new)",
+              "right": "Long Beach waterfront · mixed double sculls final July 19"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Rugby Sevens",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "Dignity Health Sports Park, Carson"
+            },
+            {
+              "left": "Starts",
+              "right": "July 12 (per one schedule); first women's final July 15"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sailing",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "Belmont Shore, Long Beach"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Shooting",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Women's 10 m air rifle final",
+              "right": "July 15"
+            },
+            {
+              "kind": "note",
+              "left": "Venue not compiled."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Skateboarding",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "kind": "note",
+              "left": "Venue and dates not compiled."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Sport Climbing",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "kind": "note",
+              "left": "More medal events than Paris. Venue and dates not compiled."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Squash",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Olympic debut",
+              "right": "Universal Studios Lot · begins July 15"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Surfing",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "San Clemente"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Table Tennis",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "Los Angeles Convention Center"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Taekwondo",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "Los Angeles Convention Center"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Tennis",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "Dignity Health Tennis Center, Carson"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Triathlon",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "Venice Beach"
+            },
+            {
+              "left": "First medal of the Games: women's race",
+              "right": "July 15"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Volleyball",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Indoor",
+              "right": "Honda Center, Anaheim"
+            },
+            {
+              "left": "Beach volleyball",
+              "right": "Alamitos Beach, Long Beach"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Weightlifting",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "kind": "note",
+              "left": "Venue and dates not compiled."
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Wrestling",
+      "blocks": [
+        {
+          "title": "LA 2028",
+          "rows": [
+            {
+              "left": "Venue",
+              "right": "Los Angeles Convention Center"
+            },
+            {
+              "kind": "note",
+              "left": "Session dates: ask for a refresh"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
