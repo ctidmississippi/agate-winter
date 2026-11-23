@@ -571,6 +571,306 @@
      ]
     },
     {
+     "title": "Road season 2027",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "WorldTour and stage races"
+      },
+      {
+       "left": "Santos Tour Down Under, Adelaide",
+       "right": "Jan. 19–24"
+      },
+      {
+       "left": "Tour of Oman",
+       "right": "Feb. 1–5"
+      },
+      {
+       "left": "Etoile de Bessèges",
+       "right": "Feb. 3–7"
+      },
+      {
+       "left": "UAE Tour",
+       "right": "Feb. 15–21"
+      },
+      {
+       "left": "Volta ao Algarve",
+       "right": "Feb. 17–21"
+      },
+      {
+       "left": "Paris-Nice",
+       "right": "Mar. 7–14"
+      },
+      {
+       "left": "Tirreno-Adriatico",
+       "right": "Mar. 8–14"
+      },
+      {
+       "left": "Volta a Catalunya",
+       "right": "Mar. 22–28"
+      },
+      {
+       "left": "Itzulia Basque Country",
+       "right": "Apr. 5–10"
+      },
+      {
+       "left": "Tour de Romandie",
+       "right": "Apr. 27 to May 2"
+      },
+      {
+       "left": "Tour de Suisse",
+       "right": "June 16–20"
+      },
+      {
+       "left": "Tour de Pologne",
+       "right": "Aug. 2–8"
+      },
+      {
+       "kind": "sub",
+       "left": "Monuments"
+      },
+      {
+       "left": "Milano-Sanremo",
+       "right": "Mar. 20"
+      },
+      {
+       "left": "Tour of Flanders",
+       "right": "Apr. 4 (the feed also lists May 9)"
+      },
+      {
+       "left": "Paris-Roubaix",
+       "right": "Apr. 11"
+      },
+      {
+       "left": "Liège-Bastogne-Liège",
+       "right": "Apr. 25 (the feed also lists Apr. 17 and May 8)"
+      },
+      {
+       "left": "Il Lombardia",
+       "right": "Oct. 9, 2027"
+      },
+      {
+       "kind": "note",
+       "left": "Dates come from the UCI calendar. It repeats or conflicts on a few races, so treat the Monument dates as provisional."
+      }
+     ]
+    },
+    {
+     "title": "Grand Tours 2027",
+     "rows": [
+      {
+       "left": "Giro d'Italia",
+       "right": "May 8–30"
+      },
+      {
+       "left": "Giro d'Italia Women",
+       "right": "May 29 to June 6"
+      },
+      {
+       "left": "Tour de France",
+       "right": "July 2–25"
+      },
+      {
+       "left": "Tour de France Femmes",
+       "right": "July 30 to Aug. 7"
+      },
+      {
+       "left": "Vuelta a España",
+       "right": "Sept. 4–26"
+      },
+      {
+       "left": "Vuelta España Femenina",
+       "right": "Oct. 3–10, 2027"
+      },
+      {
+       "kind": "note",
+       "left": "Start towns and stages are not on the calendar yet."
+      }
+     ]
+    },
+    {
+     "title": "World Championships 2027",
+     "rows": [
+      {
+       "left": "Cyclo-cross Worlds, Ostende (BEL)",
+       "right": "Jan. 29–31"
+      },
+      {
+       "left": "Road Worlds, Haute-Savoie (FRA)",
+       "right": "Aug. 24 to Sept. 5"
+      },
+      {
+       "left": "Track Worlds, Saint-Quentin-en-Yvelines (FRA)",
+       "right": "Aug. 26–30"
+      },
+      {
+       "left": "Mountain bike Worlds, Les Gets (FRA)",
+       "right": "Aug. 26 to Sept. 4"
+      },
+      {
+       "left": "BMX freestyle Worlds",
+       "right": "Aug. 25 to Sept. 4"
+      },
+      {
+       "left": "Trials Worlds, Sallanches (FRA)",
+       "right": "Aug. 30 to Sept. 3"
+      },
+      {
+       "left": "Para cycling road, Rumilly (FRA)",
+       "right": "Aug. 24–29"
+      },
+      {
+       "left": "Para cycling track, Saint-Quentin-en-Yvelines",
+       "right": "Sept. 1–5"
+      },
+      {
+       "kind": "note",
+       "left": "Hosts are in France for every discipline."
+      }
+     ]
+    },
+    {
+     "title": "Track, mountain bike and BMX",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "Track World Cups"
+      },
+      {
+       "left": "Mattamy Centre (CAN)",
+       "right": "Apr. 2–4"
+      },
+      {
+       "left": "Hong Kong",
+       "right": "Apr. 23–25"
+      },
+      {
+       "left": "China (venue to be set)",
+       "right": "Apr. 30 to May 2"
+      },
+      {
+       "left": "2028 season: Brisbane Feb. 4–6; Saint-Quentin-en-Yvelines Mar. 10–12; China Apr. 7–9"
+      },
+      {
+       "kind": "sub",
+       "left": "Mountain bike World Cups"
+      },
+      {
+       "left": "Nové Město (CZE), XCO/XCC",
+       "right": "May 21–23"
+      },
+      {
+       "left": "Loudenvielle-Peyragudes (FRA), downhill",
+       "right": "May 29–30"
+      },
+      {
+       "left": "Saalfelden-Leogang (AUT)",
+       "right": "June 11–13"
+      },
+      {
+       "left": "Les Gets (FRA)",
+       "right": "June 19–20"
+      },
+      {
+       "left": "Lenzerheide (SUI)",
+       "right": "Aug. 20–22"
+      },
+      {
+       "left": "Val di Sole (ITA)",
+       "right": "Sept. 10–12"
+      },
+      {
+       "left": "Soldier Hollow, Utah (USA), XCO/XCC",
+       "right": "Sept. 25–26"
+      },
+      {
+       "left": "Whistler (CAN), downhill",
+       "right": "Oct. 2–3"
+      },
+      {
+       "kind": "sub",
+       "left": "BMX racing World Cups"
+      },
+      {
+       "left": "China, Rounds 1 and 2",
+       "right": "May 15–16"
+      },
+      {
+       "left": "Sakarya (TUR), Rounds 3 and 4",
+       "right": "June 12–13"
+      },
+      {
+       "left": "Rounds 5 to 6 (USA, venue to be set)",
+       "right": "Sept. 25–26"
+      },
+      {
+       "left": "Sarasota (USA), Rounds 7 and 8",
+       "right": "Oct. 2–3"
+      },
+      {
+       "left": "BMX freestyle World Cup, Sakai (JPN)",
+       "right": "Nov. 26–29, 2026"
+      }
+     ]
+    },
+    {
+     "title": "Cyclo-cross World Cup calendar",
+     "rows": [
+      {
+       "left": "#1 Ostrava (CZE)",
+       "right": "Nov. 27"
+      },
+      {
+       "left": "#2 Tábor (CZE)",
+       "right": "Nov. 29"
+      },
+      {
+       "left": "#3 Glasgow (GBR)",
+       "right": "Dec. 13"
+      },
+      {
+       "left": "#4 Antwerpen (BEL)",
+       "right": "Dec. 19"
+      },
+      {
+       "left": "#5 Koksijde (BEL)",
+       "right": "Dec. 20"
+      },
+      {
+       "left": "#6 Gavere (BEL)",
+       "right": "Dec. 26"
+      },
+      {
+       "left": "#7 Namur (BEL)",
+       "right": "Dec. 27"
+      },
+      {
+       "left": "#8 Besançon (FRA)",
+       "right": "Dec. 29"
+      },
+      {
+       "left": "#9 Zonhoven (BEL)",
+       "right": "Jan. 3, 2027"
+      },
+      {
+       "left": "#10 Benidorm (ESP)",
+       "right": "Jan. 17"
+      },
+      {
+       "left": "#11 Hamme (BEL)",
+       "right": "Jan. 23"
+      },
+      {
+       "left": "#12 Hoogerheide (NED)",
+       "right": "Jan. 24"
+      },
+      {
+       "kind": "note",
+       "left": "Source: UCI calendar, read Nov. 23, 2026. Calendar only: no results or standings are compiled for cycling yet."
+      }
+     ]
+    },
+    {
      "title": "LA28 plan",
      "rows": [
       {
