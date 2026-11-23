@@ -1,784 +1,1733 @@
 {
-  "updated": "Sun., Nov. 22, 2026",
-  "note": "Compiled from LA28 and press reports. Dates and venues are the organizers' plan and subject to change. Lines marked 'ask for a refresh' have no compiled session dates yet.",
-  "sports": [
+ "updated": "Sun., Nov. 22, 2026",
+ "note": "Compiled from federation calendars and press reports on Nov. 22, 2026. Each sport shows what is happening now or next; the LA28 plan is the last block. Dates are provisional. Lines marked 'ask for a refresh' have nothing compiled yet.",
+ "sports": [
+  {
+   "name": "Aquatics",
+   "blocks": [
     {
-      "name": "Games overview",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Opening Ceremony",
-              "right": "Fri., July 14, 2028"
-            },
-            {
-              "left": "Closing Ceremony",
-              "right": "Sun., July 30, 2028"
-            },
-            {
-              "left": "First full competition day (Day 1)",
-              "right": "Sat., July 15"
-            },
-            {
-              "left": "First medal: women's triathlon, Venice Beach",
-              "right": "July 15"
-            },
-            {
-              "left": "Women's 100 m final (Day 1); men's 100 m final (Day 2)",
-              "right": "July 15–16"
-            },
-            {
-              "left": "Swimming at SoFi Stadium (branded 2028 Stadium)",
-              "right": "July 22–30"
-            },
-            {
-              "left": "Super Saturday: 26 finals across 23 sports",
-              "right": "July 29"
-            },
-            {
-              "left": "Last medals: swimming",
-              "right": "July 30"
-            },
-            {
-              "left": "Paralympic Games",
-              "right": "Aug. 15–27, 2028"
-            },
-            {
-              "kind": "note",
-              "left": "36 sports, 351 to 353 medal events (counts vary by source). Some team-sport preliminaries begin before the Opening Ceremony; canoe slalom is the only sport on July 14. Track and field is in the first week and swimming in the second. Schedule is subject to change."
-            }
-          ]
-        }
-      ]
+     "title": "Coming up",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "World Swimming Championships (25 m) · Beijing Water Cube"
+      },
+      {
+       "left": "Official training",
+       "right": "Nov. 27–30"
+      },
+      {
+       "left": "Competition",
+       "right": "Dec. 1–6"
+      },
+      {
+       "kind": "note",
+       "left": "Heats at 10:00 local, semifinals and finals at 19:00. Trial of 10-lane semifinals and finals for events of 400 m and under. $25,000 bonus per world record. Leon Marchand is expected to race."
+      },
+      {
+       "kind": "note",
+       "left": "Diving, artistic swimming, water polo and marathon swimming: no current schedule compiled."
+      }
+     ]
     },
     {
-      "name": "Aquatics",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Swimming",
-              "right": "SoFi Stadium · July 22–30"
-            },
-            {
-              "left": "Diving",
-              "right": "LA84 Foundation / John C. Argue Swim Stadium"
-            },
-            {
-              "left": "Artistic swimming",
-              "right": "Medals awarded; venue not compiled"
-            },
-            {
-              "left": "Marathon swimming",
-              "right": "Long Beach waterfront area; confirm"
-            },
-            {
-              "left": "Water polo",
-              "right": "Starts before the Opening Ceremony"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Archery",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "Dignity Health Sports Park, Carson"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Athletics",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "LA Memorial Coliseum"
-            },
-            {
-              "left": "Women's 100 m final",
-              "right": "July 15"
-            },
-            {
-              "left": "Men's 100 m final",
-              "right": "July 16"
-            },
-            {
-              "left": "4x100 m mixed relay final",
-              "right": "July 17"
-            },
-            {
-              "left": "Marathons",
-              "right": "Final weekend (July 29–30)"
-            },
-            {
-              "kind": "note",
-              "left": "Track and field takes the first week; swimming takes the second."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Badminton",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "Galen Center, Los Angeles"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Baseball & Softball",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Baseball",
-              "right": "Dodger Stadium, Los Angeles"
-            },
-            {
-              "left": "Baseball tournament begins",
-              "right": "July 13 (per one schedule)"
-            },
-            {
-              "left": "Softball",
-              "right": "Oklahoma City"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Basketball",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "5x5 basketball",
-              "right": "Preliminaries begin July 12 (per one schedule)"
-            },
-            {
-              "left": "3x3 basketball",
-              "right": "Sepulveda Basin Recreation Area"
-            },
-            {
-              "kind": "note",
-              "left": "Expanded 3x3 field. 5x5 venue not compiled."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Boxing",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "kind": "note",
-              "left": "New women's weight class added. Venue and dates not compiled."
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Canoeing",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Canoe slalom",
-              "right": "Oklahoma City · opens July 14"
-            },
-            {
-              "left": "Canoe slalom: first women's kayak final",
-              "right": "July 15"
-            },
-            {
-              "left": "Canoe sprint",
-              "right": "Marine Stadium, Long Beach"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Cricket",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "Fairgrounds, Pomona (temporary stadium)"
-            },
-            {
-              "left": "Format",
-              "right": "T20"
-            },
-            {
-              "left": "Starts",
-              "right": "Before the Opening Ceremony (per one schedule)"
-            },
-            {
-              "kind": "note",
-              "left": "First Olympic cricket in over a century."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Cycling",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Track cycling",
-              "right": "VELO Sports Center, Carson"
-            },
-            {
-              "left": "BMX racing, BMX freestyle, mountain bike, road",
-              "right": "Venues not compiled"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Equestrian",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "Santa Anita Park, Arcadia"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Fencing",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "Los Angeles Convention Center"
-            },
-            {
-              "left": "Women's individual épée final",
-              "right": "July 15"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Field Hockey",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "Galaxy Park, Carson"
-            },
-            {
-              "left": "Starts",
-              "right": "July 12 (per one schedule)"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Flag Football",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Olympic debut",
-              "right": "Tournament begins July 15"
-            },
-            {
-              "kind": "note",
-              "left": "Venue not compiled."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Football (Soccer)",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "kind": "note",
-              "left": "Expanded women's field. Venues and dates not compiled."
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Golf",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "kind": "note",
-              "left": "Champions crowned on the final weekend. Venue and dates not compiled."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Gymnastics",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Rhythmic gymnastics",
-              "right": "Galen Center / USC Sports Center"
-            },
-            {
-              "left": "Artistic and trampoline",
-              "right": "Venues not compiled"
-            },
-            {
-              "kind": "note",
-              "left": "Team and all-around finals are in the first week."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Handball",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "Long Beach waterfront"
-            },
-            {
-              "left": "Starts",
-              "right": "July 12 (per one schedule)"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Judo",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "Los Angeles Convention Center"
-            },
-            {
-              "left": "Women's 49 kg final",
-              "right": "July 15"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Lacrosse",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "kind": "note",
-              "left": "Lacrosse sixes. Champions crowned on the final weekend. Venue and dates not compiled."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Modern Pentathlon",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "Sepulveda Basin Recreation Area"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Rowing",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Rowing",
-              "right": "Marine Stadium, Long Beach"
-            },
-            {
-              "left": "Coastal rowing (new)",
-              "right": "Long Beach waterfront · mixed double sculls final July 19"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Rugby Sevens",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "Dignity Health Sports Park, Carson"
-            },
-            {
-              "left": "Starts",
-              "right": "July 12 (per one schedule); first women's final July 15"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Sailing",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "Belmont Shore, Long Beach"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Shooting",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Women's 10 m air rifle final",
-              "right": "July 15"
-            },
-            {
-              "kind": "note",
-              "left": "Venue not compiled."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Skateboarding",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "kind": "note",
-              "left": "Venue and dates not compiled."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Sport Climbing",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "kind": "note",
-              "left": "More medal events than Paris. Venue and dates not compiled."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Squash",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Olympic debut",
-              "right": "Universal Studios Lot · begins July 15"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Surfing",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "San Clemente"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Table Tennis",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "Los Angeles Convention Center"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Taekwondo",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "Los Angeles Convention Center"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Tennis",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "Dignity Health Tennis Center, Carson"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Triathlon",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "Venice Beach"
-            },
-            {
-              "left": "First medal of the Games: women's race",
-              "right": "July 15"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Volleyball",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Indoor",
-              "right": "Honda Center, Anaheim"
-            },
-            {
-              "left": "Beach volleyball",
-              "right": "Alamitos Beach, Long Beach"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Weightlifting",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "kind": "note",
-              "left": "Venue and dates not compiled."
-            }
-          ]
-        }
-      ]
-    },
-    {
-      "name": "Wrestling",
-      "blocks": [
-        {
-          "title": "LA 2028",
-          "rows": [
-            {
-              "left": "Venue",
-              "right": "Los Angeles Convention Center"
-            },
-            {
-              "kind": "note",
-              "left": "Session dates: ask for a refresh"
-            }
-          ]
-        }
-      ]
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Swimming",
+       "right": "SoFi Stadium · July 22–30"
+      },
+      {
+       "left": "Diving",
+       "right": "LA84 Foundation / John C. Argue Swim Stadium"
+      },
+      {
+       "left": "Artistic swimming",
+       "right": "Medals awarded; venue not compiled"
+      },
+      {
+       "left": "Marathon swimming",
+       "right": "Long Beach waterfront area; confirm"
+      },
+      {
+       "left": "Water polo",
+       "right": "Starts before the Opening Ceremony"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
     }
-  ]
+   ]
+  },
+  {
+   "name": "Archery",
+   "blocks": [
+    {
+     "title": "Now",
+     "rows": [
+      {
+       "kind": "note",
+       "left": "No current-season schedule compiled yet. Ask for a refresh."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "Dignity Health Sports Park, Carson"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Athletics",
+   "blocks": [
+    {
+     "title": "Ultimate Championship · Results",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "Budapest · Sept. 11–13 · 28 events, $150,000 to each winner"
+      },
+      {
+       "left": "Women's 100 m: Melissa Jefferson-Wooden (USA)",
+       "right": "10.62, world-leading"
+      },
+      {
+       "left": "Women's 200 m: Melissa Jefferson-Wooden (USA)",
+       "right": "21.47"
+      },
+      {
+       "left": "Men's 200 m: Kenny Bednarek (USA)",
+       "right": "Sprint double"
+      },
+      {
+       "left": "Women's 400 m: Marileidy Paulino (DOM)",
+       "right": "49.07"
+      },
+      {
+       "left": "Women's 100 m hurdles: Masai Russell (USA)",
+       "right": "Winner"
+      },
+      {
+       "left": "Men's 110 m hurdles: Ja'Kobe Tharp (USA)",
+       "right": "Winner"
+      },
+      {
+       "left": "Men's 5000 m: Jakob Ingebrigtsen (NOR)",
+       "right": "Winner"
+      },
+      {
+       "left": "Men's 400 m hurdles: Alison dos Santos (BRA)",
+       "right": "Winner"
+      }
+     ]
+    },
+    {
+     "title": "Coming up",
+     "rows": [
+      {
+       "left": "Valencia Marathon (Platinum label)",
+       "right": "Sun., Dec. 6"
+      },
+      {
+       "kind": "note",
+       "left": "Yomif Kejelcha (ETH) runs his second marathon; defending champions John Korir and Joyciline Jepkosgei return."
+      },
+      {
+       "left": "Amurrio Cross (ESP)",
+       "right": "Dec. 27"
+      },
+      {
+       "left": "Sylvestercross · Soest (NED)",
+       "right": "Dec. 31"
+      },
+      {
+       "left": "World Indoor Tour opens: Belgrade",
+       "right": "Jan. 27, 2027"
+      },
+      {
+       "left": "Liévin (FRA)",
+       "right": "Feb. 10, 2027"
+      },
+      {
+       "left": "Millrose Games · New York",
+       "right": "Feb. 13, 2027"
+      },
+      {
+       "left": "Toruń (POL), final Gold meeting",
+       "right": "Feb. 14, 2027"
+      },
+      {
+       "kind": "note",
+       "left": "The World Cross Country Championships moved to odd-numbered years; the next one is in 2027."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "LA Memorial Coliseum"
+      },
+      {
+       "left": "Women's 100 m final",
+       "right": "July 15"
+      },
+      {
+       "left": "Men's 100 m final",
+       "right": "July 16"
+      },
+      {
+       "left": "4x100 m mixed relay final",
+       "right": "July 17"
+      },
+      {
+       "left": "Marathons",
+       "right": "Final weekend (July 29–30)"
+      },
+      {
+       "kind": "note",
+       "left": "Track and field takes the first week; swimming takes the second."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Badminton",
+   "blocks": [
+    {
+     "title": "Coming up",
+     "rows": [
+      {
+       "left": "Hong Kong Open",
+       "right": "Nov. 17–22 (finals today)"
+      },
+      {
+       "left": "Syed Modi International · Lucknow (Super 300)",
+       "right": "Nov. 24–29"
+      },
+      {
+       "left": "Guwahati Masters (Super 100)",
+       "right": "Dec. 1–6"
+      },
+      {
+       "left": "World Tour Finals · Hangzhou",
+       "right": "Dec. 9–13"
+      },
+      {
+       "kind": "note",
+       "left": "The Finals take the top eight players or pairs in each discipline. PV Sindhu has qualified."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "Galen Center, Los Angeles"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Baseball & Softball",
+   "blocks": [
+    {
+     "title": "Now",
+     "rows": [
+      {
+       "kind": "note",
+       "left": "Offseason. MLB scores return in the Scores tab in spring."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Baseball",
+       "right": "Dodger Stadium, Los Angeles"
+      },
+      {
+       "left": "Baseball tournament begins",
+       "right": "July 13 (per one schedule)"
+      },
+      {
+       "left": "Softball",
+       "right": "Oklahoma City"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Basketball",
+   "blocks": [
+    {
+     "title": "FIBA World Cup 2027 · Americas Qualifiers",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "Window 5 · Nov. 26–30"
+      },
+      {
+       "left": "Brazil v USA · São Paulo",
+       "right": "Fri., Nov. 27"
+      },
+      {
+       "left": "USA at Colombia",
+       "right": "Second game of the window"
+      },
+      {
+       "left": "Uruguay v Canada · Argentina v Bahamas · Panama v Puerto Rico",
+       "right": "Thu., Nov. 26"
+      },
+      {
+       "left": "Chile v Mexico · Colombia v Dominican Republic",
+       "right": "Fri., Nov. 27"
+      },
+      {
+       "kind": "note",
+       "left": "USA sends a roster of non-NBA players, including Hunter Dickinson, Buddy Boeheim and Haywood Highsmith. Group E: Brazil, Chile, Colombia, Dominican Republic, Mexico, USA. The final window is in February 2027, and seven Americas teams reach the World Cup (Qatar, Aug. 27–Sept. 12, 2027)."
+      },
+      {
+       "kind": "note",
+       "left": "NBA and WNBA games are in the Scores tab."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "5x5 basketball",
+       "right": "Preliminaries begin July 12 (per one schedule)"
+      },
+      {
+       "left": "3x3 basketball",
+       "right": "Sepulveda Basin Recreation Area"
+      },
+      {
+       "kind": "note",
+       "left": "Expanded 3x3 field. 5x5 venue not compiled."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Boxing",
+   "blocks": [
+    {
+     "title": "Coming up (pro)",
+     "rows": [
+      {
+       "left": "Dmitry Bivol v Callum Smith · Yekaterinburg",
+       "right": "Dec. 12"
+      },
+      {
+       "left": "Erislandy Lara v Tim Tszyu",
+       "right": "Date not compiled"
+      },
+      {
+       "left": "Jake Paul v Cédric Doumbé",
+       "right": "Date not compiled"
+      },
+      {
+       "kind": "note",
+       "left": "Amateur and Olympic-qualification boxing not compiled."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "kind": "note",
+       "left": "New women's weight class added. Venue and dates not compiled."
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Canoeing",
+   "blocks": [
+    {
+     "title": "Coming up",
+     "rows": [
+      {
+       "left": "Sprint World Cup",
+       "right": "May 27–30, 2027"
+      },
+      {
+       "left": "Komatsu (JPN), final Olympic ranking events",
+       "right": "Sept. 16–18, 2027"
+      },
+      {
+       "left": "Tokyo, Sea Forest Waterway",
+       "right": "Sept. 23–26, 2027"
+      },
+      {
+       "kind": "note",
+       "left": "Offseason. The 2026 sprint World Championships were held in Poznań (Aug. 26–30)."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Canoe slalom",
+       "right": "Oklahoma City · opens July 14"
+      },
+      {
+       "left": "Canoe slalom: first women's kayak final",
+       "right": "July 15"
+      },
+      {
+       "left": "Canoe sprint",
+       "right": "Marine Stadium, Long Beach"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cricket",
+   "blocks": [
+    {
+     "title": "Now",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "England in Australia · Nov. 13–Dec. 2"
+      },
+      {
+       "left": "Fifth T20I · Manuka Oval, Canberra",
+       "right": "Wed., Dec. 2 · 7:15 pm AEDT"
+      },
+      {
+       "kind": "sub",
+       "left": "New Zealand in Australia · 4 Tests"
+      },
+      {
+       "left": "First Test · Perth",
+       "right": "Dec. 9–13"
+      },
+      {
+       "left": "Second Test · Adelaide",
+       "right": "Dec. 17–21"
+      },
+      {
+       "left": "Boxing Day Test · MCG",
+       "right": "Dec. 26–30"
+      },
+      {
+       "kind": "sub",
+       "left": "Elsewhere"
+      },
+      {
+       "left": "Bangladesh in South Africa",
+       "right": "Nov. 15–Dec. 13"
+      },
+      {
+       "left": "India v Sri Lanka starts",
+       "right": "Dec. 13"
+      },
+      {
+       "left": "England in South Africa: 1st Test, Wanderers",
+       "right": "Dec. 17–21"
+      },
+      {
+       "left": "2nd Test, Centurion",
+       "right": "Dec. 26–30"
+      },
+      {
+       "left": "3rd Test, Cape Town",
+       "right": "Jan. 3–7, 2027"
+      },
+      {
+       "left": "Australia v England, 150th Anniversary Test · MCG",
+       "right": "Mar. 11–15, 2027"
+      },
+      {
+       "kind": "note",
+       "left": "India won the 2026 men's T20 World Cup, beating New Zealand in the final. Cricket returns to the Olympics at LA28 in T20 format."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "Fairgrounds, Pomona (temporary stadium)"
+      },
+      {
+       "left": "Format",
+       "right": "T20"
+      },
+      {
+       "left": "Starts",
+       "right": "Before the Opening Ceremony (per one schedule)"
+      },
+      {
+       "kind": "note",
+       "left": "First Olympic cricket in over a century."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Cycling",
+   "blocks": [
+    {
+     "title": "Cyclo-cross World Cup 2026-27",
+     "rows": [
+      {
+       "left": "Ostrava (CZE), Friday night race",
+       "right": "Nov. 27"
+      },
+      {
+       "left": "Tábor (CZE)",
+       "right": "Nov. 29"
+      },
+      {
+       "left": "Glasgow (GBR), Kelvingrove Park",
+       "right": "Dec. 13"
+      },
+      {
+       "left": "Antwerp (BEL)",
+       "right": "Dec. 19"
+      },
+      {
+       "left": "Koksijde (BEL)",
+       "right": "Dec. 20"
+      },
+      {
+       "left": "Gavere (BEL)",
+       "right": "Dec. 26"
+      },
+      {
+       "left": "Namur (BEL)",
+       "right": "Dec. 27"
+      },
+      {
+       "left": "Besançon (FRA)",
+       "right": "Dec. 29"
+      },
+      {
+       "left": "Zonhoven (BEL)",
+       "right": "Jan. 3, 2027"
+      },
+      {
+       "left": "Benidorm (ESP)",
+       "right": "Jan. 17, 2027"
+      },
+      {
+       "left": "Hamme (BEL) / Hoogerheide (NED)",
+       "right": "Jan. 23 / Jan. 24, 2027"
+      },
+      {
+       "left": "World Championships · Ostend (BEL)",
+       "right": "Jan. 29–31, 2027"
+      },
+      {
+       "kind": "note",
+       "left": "Glasgow is the first British World Cup round since Milton Keynes in 2014. Other series races today include the X2O Trophy in Beringen. Mathieu van der Poel is the reigning world champion; his plans for this season were still unclear in my sources."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Track cycling",
+       "right": "VELO Sports Center, Carson"
+      },
+      {
+       "left": "BMX racing, BMX freestyle, mountain bike, road",
+       "right": "Venues not compiled"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Equestrian",
+   "blocks": [
+    {
+     "title": "FEI Jumping World Cup · Western European League 2026-27",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "Done"
+      },
+      {
+       "left": "Oslo · Lyon · Verona · Stuttgart",
+       "right": "Oct. 7–Nov. 15"
+      },
+      {
+       "kind": "sub",
+       "left": "Coming up"
+      },
+      {
+       "left": "Madrid",
+       "right": "Nov. 26–29"
+      },
+      {
+       "left": "A Coruña",
+       "right": "Dec. 3–6"
+      },
+      {
+       "left": "London International Horse Show · ExCeL",
+       "right": "Dec. 16–21"
+      },
+      {
+       "left": "Mechelen",
+       "right": "Dec. 26–30"
+      },
+      {
+       "left": "Basel",
+       "right": "Jan. 7–10, 2027"
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "Santa Anita Park, Arcadia"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Fencing",
+   "blocks": [
+    {
+     "title": "Coming up",
+     "rows": [
+      {
+       "left": "Épée World Cup",
+       "right": "Dec. 3–6"
+      },
+      {
+       "left": "Foil World Cup",
+       "right": "Dec. 10–13"
+      },
+      {
+       "kind": "note",
+       "left": "Host cities are not in my sources; the FIE calendar at fie.org has them."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "Los Angeles Convention Center"
+      },
+      {
+       "left": "Women's individual épée final",
+       "right": "July 15"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Field Hockey",
+   "blocks": [
+    {
+     "title": "FIH Pro League 2026-27",
+     "rows": [
+      {
+       "left": "Season opens in Argentina",
+       "right": "Dec. 8–13"
+      },
+      {
+       "left": "Next round",
+       "right": "Dec. 14–22"
+      },
+      {
+       "kind": "note",
+       "left": "Pakistan men were relegated. France men and India women join the league."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "Galaxy Park, Carson"
+      },
+      {
+       "left": "Starts",
+       "right": "July 12 (per one schedule)"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Flag Football",
+   "blocks": [
+    {
+     "title": "Now",
+     "rows": [
+      {
+       "kind": "note",
+       "left": "No current-season schedule compiled yet. Ask for a refresh."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Olympic debut",
+       "right": "Tournament begins July 15"
+      },
+      {
+       "kind": "note",
+       "left": "Venue not compiled."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Football (Soccer)",
+   "blocks": [
+    {
+     "title": "Now",
+     "rows": [
+      {
+       "kind": "note",
+       "left": "Live league and cup scores are in the Scores tab. International-window schedules are not compiled."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "kind": "note",
+       "left": "Expanded women's field. Venues and dates not compiled."
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Golf",
+   "blocks": [
+    {
+     "title": "Coming up",
+     "rows": [
+      {
+       "left": "RSM Classic · Sea Island (GA)",
+       "right": "Nov. 19–22, final round today"
+      },
+      {
+       "left": "Hero World Challenge · Albany, Bahamas",
+       "right": "Dec. 3–6"
+      },
+      {
+       "left": "Grant Thornton Invitational",
+       "right": "Dec. 11–13"
+      },
+      {
+       "kind": "note",
+       "left": "The Hero is a 20-player field hosted by Tiger Woods, who joins it for the first time since 2023. Live golf is in the Scores tab."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "kind": "note",
+       "left": "Champions crowned on the final weekend. Venue and dates not compiled."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Gymnastics",
+   "blocks": [
+    {
+     "title": "World Championships · Results",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "Artistic · Rotterdam · Oct. 17–25"
+      },
+      {
+       "left": "Women's team: China",
+       "right": "Gold, first in 20 years"
+      },
+      {
+       "left": "USA",
+       "right": "Silver, by 0.233; ended 7-title streak"
+      },
+      {
+       "left": "Women's all-around: Skye Blakely (USA)",
+       "right": "Gold"
+      },
+      {
+       "left": "Liudmila Roshchina (RUS) / Ke Qinqin (CHN)",
+       "right": "Silver / Bronze"
+      },
+      {
+       "left": "Women's vault: Rebeca Andrade (BRA)",
+       "right": "Gold"
+      },
+      {
+       "left": "Women's floor: Claire Pease (USA)",
+       "right": "Gold"
+      },
+      {
+       "left": "Men's team: Japan",
+       "right": "Gold, 3rd straight"
+      },
+      {
+       "left": "Men's all-around: Daiki Hashimoto (JPN)",
+       "right": "85.998, 4th world AA title"
+      },
+      {
+       "left": "Yang (CHN) / Joe Fraser (GBR)",
+       "right": "Silver / Bronze (83.531)"
+      },
+      {
+       "kind": "sub",
+       "left": "Rhythmic · Frankfurt · Aug. 12–16"
+      },
+      {
+       "left": "Individual all-around: Darja Varfolomeev (GER)",
+       "right": "Gold"
+      },
+      {
+       "left": "Stiliana Nikolova (BUL) / Sofia Raffaeli (ITA)",
+       "right": "Silver / Bronze"
+      },
+      {
+       "left": "Group all-around: Spain",
+       "right": "Gold"
+      }
+     ]
+    },
+    {
+     "title": "Coming up",
+     "rows": [
+      {
+       "left": "Trampoline & Tumbling Worlds · Nanjing",
+       "right": "Nov. 4–8 (results not compiled)"
+      },
+      {
+       "left": "Artistic World Cup · Cottbus (GER)",
+       "right": "Feb. 25–28, 2027"
+      },
+      {
+       "left": "Artistic World Cup · Baku (AZE)",
+       "right": "Mar. 11–14, 2027"
+      },
+      {
+       "left": "Artistic World Cup · Osijek (CRO)",
+       "right": "Apr. 8–11, 2027"
+      },
+      {
+       "left": "Rhythmic Worlds · Baku",
+       "right": "Sept. 15–19, 2027"
+      },
+      {
+       "left": "Artistic Worlds · Chengdu",
+       "right": "Oct. 29–Nov. 8, 2027"
+      },
+      {
+       "kind": "note",
+       "left": "The artistic World Cup series is between seasons; the next one opens in Cottbus in late February."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Rhythmic gymnastics",
+       "right": "Galen Center / USC Sports Center"
+      },
+      {
+       "left": "Artistic and trampoline",
+       "right": "Venues not compiled"
+      },
+      {
+       "kind": "note",
+       "left": "Team and all-around finals are in the first week."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Handball",
+   "blocks": [
+    {
+     "title": "Women's EHF Euro 2026",
+     "rows": [
+      {
+       "left": "Preliminary round",
+       "right": "Dec. 3–9"
+      },
+      {
+       "left": "Main round (Cluj-Napoca, Katowice)",
+       "right": "Dec. 10–15"
+      },
+      {
+       "left": "Semifinals · Katowice",
+       "right": "Fri., Dec. 18"
+      },
+      {
+       "left": "Bronze · 15:15 CET",
+       "right": "Sun., Dec. 20"
+      },
+      {
+       "left": "Final · 18:00 CET",
+       "right": "Sun., Dec. 20"
+      },
+      {
+       "kind": "note",
+       "left": "First European Championship hosted by five countries: Poland, Romania, Czechia, Slovakia and Türkiye. 24 teams. Norway won in 2024."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "Long Beach waterfront"
+      },
+      {
+       "left": "Starts",
+       "right": "July 12 (per one schedule)"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Judo",
+   "blocks": [
+    {
+     "title": "Coming up",
+     "rows": [
+      {
+       "left": "Tokyo Grand Slam",
+       "right": "Dec. 5–6"
+      },
+      {
+       "left": "Paris Grand Slam",
+       "right": "Feb. 5–7, 2027"
+      },
+      {
+       "left": "Baku Grand Slam",
+       "right": "Feb. 19–21, 2027"
+      },
+      {
+       "kind": "note",
+       "left": "Done this season: World Championships in Baku (Oct. 4–11) and the Abu Dhabi Grand Slam (Oct. 29–31); results not compiled."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "Los Angeles Convention Center"
+      },
+      {
+       "left": "Women's 49 kg final",
+       "right": "July 15"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Lacrosse",
+   "blocks": [
+    {
+     "title": "Now",
+     "rows": [
+      {
+       "kind": "note",
+       "left": "No current-season schedule compiled yet. Ask for a refresh."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "kind": "note",
+       "left": "Lacrosse sixes. Champions crowned on the final weekend. Venue and dates not compiled."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Modern Pentathlon",
+   "blocks": [
+    {
+     "title": "Coming up",
+     "rows": [
+      {
+       "left": "2027 World Cup",
+       "right": "Apr. 14–18, 2027"
+      },
+      {
+       "left": "World Cups: Cairo, Kaunas, Pazardzhik, West Hollywood",
+       "right": "2027"
+      },
+      {
+       "left": "World Championships · Budapest",
+       "right": "Late Aug.–early Sept. 2027 (to be confirmed)"
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "Sepulveda Basin Recreation Area"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rowing",
+   "blocks": [
+    {
+     "title": "Coming up",
+     "rows": [
+      {
+       "left": "World Rowing Cup I (proposed)",
+       "right": "June 11–13, 2027"
+      },
+      {
+       "left": "World Rowing Cup III · Racice (CZE)",
+       "right": "2027"
+      },
+      {
+       "kind": "note",
+       "left": "Offseason."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Rowing",
+       "right": "Marine Stadium, Long Beach"
+      },
+      {
+       "left": "Coastal rowing (new)",
+       "right": "Long Beach waterfront · mixed double sculls final July 19"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Rugby Sevens",
+   "blocks": [
+    {
+     "title": "HSBC SVNS 2026-27",
+     "rows": [
+      {
+       "left": "Dubai · The Sevens Stadium (SVNS 3 also Nov. 27–28)",
+       "right": "Nov. 28–29"
+      },
+      {
+       "left": "Cape Town",
+       "right": "Dec. 5–6"
+      },
+      {
+       "left": "Singapore",
+       "right": "Jan. 30–31, 2027"
+      },
+      {
+       "left": "Perth",
+       "right": "Feb. 6–7, 2027"
+      },
+      {
+       "left": "Vancouver",
+       "right": "Mar. 6–7, 2027"
+      },
+      {
+       "left": "New York",
+       "right": "Date not compiled"
+      },
+      {
+       "left": "World Championship: Hong Kong, Valladolid, Bordeaux",
+       "right": "Spring 2027"
+      },
+      {
+       "kind": "note",
+       "left": "Last season: New Zealand women and South Africa men won the Series; Australia women and South Africa men won the World Championship. Men in 2027: South Africa, New Zealand, Spain, Australia, Argentina, Fiji, France, USA."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "Dignity Health Sports Park, Carson"
+      },
+      {
+       "left": "Starts",
+       "right": "July 12 (per one schedule); first women's final July 15"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sailing",
+   "blocks": [
+    {
+     "title": "SailGP Season 6",
+     "rows": [
+      {
+       "left": "Grand Final · Abu Dhabi",
+       "right": "Nov. 28–29"
+      },
+      {
+       "left": "Season 7 opens in Hong Kong",
+       "right": "Jan. 23–24, 2027"
+      },
+      {
+       "kind": "note",
+       "left": "SailGP is not an Olympic class. Olympic-class racing not compiled."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "Belmont Shore, Long Beach"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Shooting",
+   "blocks": [
+    {
+     "title": "Now",
+     "rows": [
+      {
+       "kind": "note",
+       "left": "No current-season schedule compiled yet. Ask for a refresh."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Women's 10 m air rifle final",
+       "right": "July 15"
+      },
+      {
+       "kind": "note",
+       "left": "Venue not compiled."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Skateboarding",
+   "blocks": [
+    {
+     "title": "Street League 2026 Championship Tour",
+     "rows": [
+      {
+       "left": "Sydney (opener): Ginwoo Onodera / Rayssa Leal",
+       "right": "Men's / women's winners"
+      },
+      {
+       "left": "Paris (Roland-Garros), Oct. 3: Nyjah Huston",
+       "right": "Men's winner"
+      },
+      {
+       "left": "Tokyo (Ariake Arena), Nov. 14 · stop 6: Juni Kang",
+       "right": "36.4 to 36.3 over Onodera"
+      },
+      {
+       "left": "Tokyo women's winner: Chloe Covell"
+      },
+      {
+       "kind": "note",
+       "left": "Season finale not in my sources. Sky Brown won the world park title in São Paulo."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "kind": "note",
+       "left": "Venue and dates not compiled."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Sport Climbing",
+   "blocks": [
+    {
+     "title": "Coming up",
+     "rows": [
+      {
+       "left": "2027 World Cup season opens: Tokyo (boulder)",
+       "right": "Apr. 9–11, 2027"
+      },
+      {
+       "left": "Manchester (GBR)",
+       "right": "June 2027"
+      },
+      {
+       "left": "Paris (boulder)",
+       "right": "Sept. 24–26, 2027"
+      },
+      {
+       "left": "World Championships · Brno (CZE)",
+       "right": "2027"
+      },
+      {
+       "kind": "note",
+       "left": "The 2026 World Cup season is over. 2027 includes Olympic qualification."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "kind": "note",
+       "left": "More medal events than Paris. Venue and dates not compiled."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Squash",
+   "blocks": [
+    {
+     "title": "Now",
+     "rows": [
+      {
+       "kind": "note",
+       "left": "No current-season schedule compiled yet. Ask for a refresh."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Olympic debut",
+       "right": "Universal Studios Lot · begins July 15"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Surfing",
+   "blocks": [
+    {
+     "title": "Coming up",
+     "rows": [
+      {
+       "left": "Lexus Pipe Pro · Banzai Pipeline, Oahu",
+       "right": "Dec. 8–20 (waiting period)"
+      },
+      {
+       "kind": "note",
+       "left": "The 12th and final tour stop decides the 2026 world titles, with 1.5 times the usual ranking points. The Peniche stop (Oct. 22–Nov. 1) results are not compiled."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "San Clemente"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Table Tennis",
+   "blocks": [
+    {
+     "title": "Coming up",
+     "rows": [
+      {
+       "left": "World Table Tennis Cup Finals (team)",
+       "right": "Nov. 29–Dec. 6 (dates per an events database)"
+      },
+      {
+       "left": "WTT Finals · Kai Tak Arena, Hong Kong",
+       "right": "Dec. 9–13"
+      },
+      {
+       "kind": "note",
+       "left": "16 singles players and 8 mixed-doubles pairs, $1.3 million prize pool. Miwa Harimoto, Hina Hayata and Satsuki Odo have qualified."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "Los Angeles Convention Center"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Taekwondo",
+   "blocks": [
+    {
+     "title": "Coming up",
+     "rows": [
+      {
+       "left": "Grand Prix Final · Astana",
+       "right": "Nov. 28–29"
+      },
+      {
+       "left": "2027 Grand Prix season opens (Rome hosts first)",
+       "right": "Feb. 12–14, 2027 (per events database)"
+      },
+      {
+       "kind": "note",
+       "left": "The 2026 Grand Prix stops were Rome, Muju (Korea) and Paris."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "Los Angeles Convention Center"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Tennis",
+   "blocks": [
+    {
+     "title": "Davis Cup Finals · Bologna",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "Quarterfinals (all times CET)"
+      },
+      {
+       "left": "Czechia v Canada",
+       "right": "Tue., Nov. 24 · 16:00"
+      },
+      {
+       "left": "Italy v South Korea",
+       "right": "Wed., Nov. 25 · 16:00"
+      },
+      {
+       "left": "Great Britain v Germany",
+       "right": "Thu., Nov. 26 · 10:00"
+      },
+      {
+       "left": "Austria v Spain",
+       "right": "Thu., Nov. 26 · not before 17:00"
+      },
+      {
+       "kind": "sub",
+       "left": "Semifinals and final"
+      },
+      {
+       "left": "Semifinal 1",
+       "right": "Fri., Nov. 27 · 16:00"
+      },
+      {
+       "left": "Semifinal 2",
+       "right": "Sat., Nov. 28 · 12:00"
+      },
+      {
+       "left": "Final",
+       "right": "Sun., Nov. 29 · 15:00"
+      },
+      {
+       "kind": "note",
+       "left": "Italy is the defending champion and the host. Live tennis scores are in the Scores tab."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "Dignity Health Tennis Center, Carson"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Triathlon",
+   "blocks": [
+    {
+     "title": "Coming up (2027 Triathlon World Tour)",
+     "rows": [
+      {
+       "left": "T100 Gold Coast",
+       "right": "Mar. 20–21, 2027"
+      },
+      {
+       "left": "T50 Abu Dhabi",
+       "right": "Mar. 27–28, 2027"
+      },
+      {
+       "left": "T100 Singapore",
+       "right": "Apr. 10–11, 2027"
+      },
+      {
+       "left": "T50 Samarkand",
+       "right": "Apr. 24–25, 2027"
+      },
+      {
+       "left": "T50 Final · Hamburg",
+       "right": "Sept. 8–12, 2027"
+      },
+      {
+       "kind": "note",
+       "left": "The World Triathlon Championship Series is rebranded T50. The 2026 series finished in late September."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "Venice Beach"
+      },
+      {
+       "left": "First medal of the Games: women's race",
+       "right": "July 15"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Volleyball",
+   "blocks": [
+    {
+     "title": "Coming up",
+     "rows": [
+      {
+       "left": "Women's Club World Championship · São Paulo",
+       "right": "Dec. 8–13"
+      },
+      {
+       "left": "Men's Club World Championship",
+       "right": "Dec. 15–20"
+      },
+      {
+       "kind": "note",
+       "left": "Women: VakıfBank, NEC Red Rockets Kawasaki, Al Ahly and Alianza Lima are among the eight teams. The Nations League finished in the summer."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Indoor",
+       "right": "Honda Center, Anaheim"
+      },
+      {
+       "left": "Beach volleyball",
+       "right": "Alamitos Beach, Long Beach"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Weightlifting",
+   "blocks": [
+    {
+     "title": "World Championships · Results",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "Ningbo, China · Oct. 27–Nov. 8"
+      },
+      {
+       "left": "China medal count",
+       "right": "17 gold, 10 silver, 6 bronze"
+      },
+      {
+       "left": "Women's 86 kg: Liao Guifang (CHN)",
+       "right": "Swept all three golds, two world records"
+      },
+      {
+       "left": "Women's +86 kg: Li Yan (CHN)",
+       "right": "Three golds, snatch world record"
+      },
+      {
+       "left": "Women's 77 kg: Yang Qiuxia (CHN)",
+       "right": "Gold; Peng Cuiting (CHN) snatch world record"
+      },
+      {
+       "left": "Women's 53 kg: Zhang Haiqin (CHN)",
+       "right": "Gold, 1 kg ahead of Miranda Ulrey (USA)"
+      },
+      {
+       "left": "Men's super heavyweight: Alireza Yousefi (IRI)",
+       "right": "Clean and jerk world record"
+      },
+      {
+       "kind": "note",
+       "left": "Next major event not compiled."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "kind": "note",
+       "left": "Venue and dates not compiled."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "Wrestling",
+   "blocks": [
+    {
+     "title": "Recent",
+     "rows": [
+      {
+       "left": "World Championships · Manama (BRN)",
+       "right": "Oct. 24–Nov. 1; first Arab host"
+      },
+      {
+       "kind": "note",
+       "left": "Results not compiled. Ask for a refresh."
+      }
+     ]
+    },
+    {
+     "title": "LA28 plan",
+     "rows": [
+      {
+       "left": "Venue",
+       "right": "Los Angeles Convention Center"
+      },
+      {
+       "kind": "note",
+       "left": "Session dates: ask for a refresh"
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "LA28 overview",
+   "blocks": [
+    {
+     "title": "Games",
+     "rows": [
+      {
+       "left": "Opening Ceremony",
+       "right": "Fri., July 14, 2028"
+      },
+      {
+       "left": "Closing Ceremony",
+       "right": "Sun., July 30, 2028"
+      },
+      {
+       "left": "First full competition day (Day 1)",
+       "right": "Sat., July 15"
+      },
+      {
+       "left": "First medal: women's triathlon, Venice Beach",
+       "right": "July 15"
+      },
+      {
+       "left": "Women's 100 m final (Day 1); men's 100 m final (Day 2)",
+       "right": "July 15–16"
+      },
+      {
+       "left": "Swimming at SoFi Stadium (branded 2028 Stadium)",
+       "right": "July 22–30"
+      },
+      {
+       "left": "Super Saturday: 26 finals across 23 sports",
+       "right": "July 29"
+      },
+      {
+       "left": "Last medals: swimming",
+       "right": "July 30"
+      },
+      {
+       "left": "Paralympic Games",
+       "right": "Aug. 15–27, 2028"
+      },
+      {
+       "kind": "note",
+       "left": "36 sports, 351 to 353 medal events (counts vary by source). Some team-sport preliminaries begin before the Opening Ceremony; canoe slalom is the only sport on July 14. Track and field is in the first week and swimming in the second. Schedule is subject to change."
+      }
+     ]
+    }
+   ]
+  }
+ ]
 }
