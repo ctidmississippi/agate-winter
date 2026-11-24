@@ -1,5 +1,5 @@
 {
- "updated": "Sun., Nov. 22, 2026",
+ "updated": "Tue., Nov. 24, 2026",
  "note": "Compiled from federation calendars and press reports on Nov. 22, 2026. Each sport shows what is happening now or next; the LA28 plan is the last block. Dates are provisional. Lines marked 'ask for a refresh' have nothing compiled yet.",
  "sports": [
   {
@@ -59,7 +59,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 24, 2026",
+   "source": "World Aquatics"
   },
   {
    "name": "Archery",
@@ -86,7 +88,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Athletics",
@@ -202,7 +206,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 24, 2026",
+   "source": "Diamond League, World Athletics"
   },
   {
    "name": "Badminton",
@@ -245,7 +251,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Baseball & Softball",
@@ -280,7 +288,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Basketball",
@@ -335,7 +345,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Boxing",
@@ -374,7 +386,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Canoeing",
@@ -421,7 +435,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Cricket",
@@ -508,7 +524,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Cycling",
@@ -887,7 +905,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "UCI calendar"
   },
   {
    "name": "Equestrian",
@@ -942,7 +962,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Fencing",
@@ -981,7 +1003,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Field Hockey",
@@ -1020,7 +1044,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Flag Football",
@@ -1047,7 +1073,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Football (Soccer)",
@@ -1074,7 +1102,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Golf",
@@ -1109,7 +1139,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Gymnastics",
@@ -1225,7 +1257,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "FIG calendar"
   },
   {
    "name": "Handball",
@@ -1276,7 +1310,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Judo",
@@ -1319,7 +1355,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Lacrosse",
@@ -1342,7 +1380,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Modern Pentathlon",
@@ -1377,7 +1417,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Rowing",
@@ -1416,7 +1458,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Rugby Sevens",
@@ -1475,7 +1519,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Sailing",
@@ -1510,7 +1556,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Shooting",
@@ -1537,7 +1585,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Skateboarding",
@@ -1575,7 +1625,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Sport Climbing",
@@ -1614,7 +1666,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Squash",
@@ -1641,7 +1695,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Surfing",
@@ -1672,7 +1728,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Table Tennis",
@@ -1707,7 +1765,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Taekwondo",
@@ -1742,7 +1802,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Tennis",
@@ -1805,7 +1867,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Triathlon",
@@ -1856,7 +1920,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Volleyball",
@@ -1895,7 +1961,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Weightlifting",
@@ -1946,7 +2014,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "Wrestling",
@@ -1977,7 +2047,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   },
   {
    "name": "LA28 qualification",
@@ -2071,7 +2143,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Federation qualification systems"
   },
   {
    "name": "LA28 overview",
@@ -2121,7 +2195,9 @@
       }
      ]
     }
-   ]
+   ],
+   "checked": "Nov. 22, 2026",
+   "source": "Hand-compiled"
   }
  ]
 }
