@@ -1,5 +1,5 @@
 {
- "updated": "Tue., Nov. 24, 2026",
+ "updated": "Wed., Nov. 25, 2026",
  "note": "Compiled from federation calendars and press reports on Nov. 22, 2026. Each sport shows what is happening now or next; the LA28 plan is the last block. Dates are provisional. Lines marked 'ask for a refresh' have nothing compiled yet.",
  "sports": [
   {
@@ -589,6 +589,413 @@
      ]
     },
     {
+     "title": "Cyclo-cross 2026-27 · Results so far",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "European Championships · Zeddam (NED) · Nov. 7–8"
+      },
+      {
+       "left": "Men: Thibau Nys (BEL)"
+      },
+      {
+       "left": "Women: Lucinda Brand (NED)"
+      },
+      {
+       "kind": "sub",
+       "left": "X2O Trofee"
+      },
+      {
+       "left": "Nov. 22 Beringen",
+       "right": "Nys / Sara Casasola (ITA)"
+      },
+      {
+       "left": "Nov. 15 Hamme-Zogge",
+       "right": "Nys / Brand"
+      },
+      {
+       "left": "Nov. 1 Oudenaarde (Koppenberg)",
+       "right": "Nys / Brand"
+      },
+      {
+       "kind": "sub",
+       "left": "Superprestige"
+      },
+      {
+       "left": "Nov. 14 Merksplas",
+       "right": "Niels Vandeputte / Brand"
+      },
+      {
+       "left": "Nov. 11 Niel",
+       "right": "Cameron Mason (GBR) / Manon Bakker"
+      },
+      {
+       "left": "Nov. 5 Middelkerke",
+       "right": "Joran Wyseure / Aniek van Alphen"
+      },
+      {
+       "left": "Oct. 25 Overijse",
+       "right": "Michael Vanthourenhout / Brand"
+      },
+      {
+       "kind": "sub",
+       "left": "HG Cross"
+      },
+      {
+       "left": "Nov. 21 Lokeren",
+       "right": "Gerben Kuypers / Casasola"
+      },
+      {
+       "left": "Oct. 24 Heerde",
+       "right": "Wyseure / Ceylin del Carmen Alvarado"
+      },
+      {
+       "left": "Oct. 17 Meulebeke",
+       "right": "Vanthourenhout / Marie Schreiber"
+      },
+      {
+       "left": "Oct. 11 Dendermonde",
+       "right": "Vanthourenhout / Brand"
+      },
+      {
+       "kind": "note",
+       "left": "Men's winner first, women's second. The World Cup opens Nov. 27 in Ostrava. Last season Van der Poel won the men's overall (8 wins, 51 career World Cup wins) and Brand the women's."
+      }
+     ]
+    },
+    {
+     "title": "2026 season · Results",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "Grand Tours"
+      },
+      {
+       "left": "Giro d'Italia: Jonas Vingegaard (DEN)",
+       "right": "Won by almost 5½ min over Felix Gall; Jai Hindley also on the podium"
+      },
+      {
+       "left": "Tour de France: Tadej Pogačar (SLO)",
+       "right": "Fifth title, five stage wins; Remco Evenepoel 2nd, 6:26 back"
+      },
+      {
+       "left": "Tour jerseys",
+       "right": "Mountains Richard Carapaz; best young rider Isaac Del Toro; Paul Seixas 4th"
+      },
+      {
+       "left": "Tour final stage in Paris: Mathieu van der Poel"
+      },
+      {
+       "left": "Vuelta a España: Enric Mas (ESP)",
+       "right": "Felix Gall and Primož Roglič on the podium; Pogačar quit after a stage 8 crash"
+      },
+      {
+       "kind": "sub",
+       "left": "Monuments and classics"
+      },
+      {
+       "left": "Milano-Sanremo",
+       "right": "Pogačar, beat Tom Pidcock in the sprint"
+      },
+      {
+       "left": "Strade Bianche",
+       "right": "Pogačar, third in a row"
+      },
+      {
+       "left": "Tour of Flanders",
+       "right": "Pogačar, second in a row"
+      },
+      {
+       "left": "Paris-Roubaix",
+       "right": "Wout van Aert; Pogačar 2nd"
+      },
+      {
+       "left": "Liège-Bastogne-Liège",
+       "right": "Pogačar, third in a row; Seixas 2nd, Evenepoel 3rd"
+      },
+      {
+       "left": "Il Lombardia",
+       "right": "Paul Seixas; Pogačar out injured"
+      },
+      {
+       "left": "Omloop and E3",
+       "right": "Van der Poel won both"
+      },
+      {
+       "left": "Amstel Gold and Flèche Wallonne",
+       "right": "Evenepoel; Seixas"
+      },
+      {
+       "kind": "sub",
+       "left": "World and European championships"
+      },
+      {
+       "left": "Worlds road race, Montréal (men)",
+       "right": "Brandon McNulty (USA)"
+      },
+      {
+       "left": "Worlds time trial (men)",
+       "right": "Evenepoel, fourth straight"
+      },
+      {
+       "left": "European road race (men)",
+       "right": "Evenepoel, 4 mm ahead of Giulio Ciccone"
+      },
+      {
+       "left": "European time trial (men)",
+       "right": "Roglič, at 36"
+      },
+      {
+       "kind": "sub",
+       "left": "UCI world ranking, final"
+      },
+      {
+       "left": "Men: 1. Pogačar",
+       "right": "9,331.8 points; Evenepoel 2nd (7,191.6), then Del Toro and Seixas"
+      },
+      {
+       "left": "Women: 1. Demi Vollering",
+       "right": "9,330 points; Kasia Niewiadoma 2nd (5,660), then Paula Blasi, Elisa Longo Borghini, Lorena Wiebes"
+      },
+      {
+       "left": "Vollering's season",
+       "right": "Giro Women, Omloop, Flèche Wallonne, world and European road titles"
+      },
+      {
+       "kind": "note",
+       "left": "Podium order beyond the winner is only given where sources agreed. Third place at the Tour is left out because sources conflicted."
+      }
+     ]
+    },
+    {
+     "title": "Tour de France 2027 · Stage by stage",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "114th edition · Edinburgh to Paris · July 2–25 · 3,479 km · 21 stages"
+      },
+      {
+       "left": "1 · Fri., July 2 · Edinburgh–Carlisle",
+       "right": "185 km, flat"
+      },
+      {
+       "left": "2 · Sat., July 3 · Keswick–Liverpool",
+       "right": "223 km, hilly"
+      },
+      {
+       "left": "3 · Sun., July 4 · Welshpool–Cardiff",
+       "right": "223 km, hilly"
+      },
+      {
+       "kind": "sub",
+       "left": "Rest day Mon., July 5"
+      },
+      {
+       "left": "4 · Tue., July 6 · Cherbourg loop",
+       "right": "172 km, hilly"
+      },
+      {
+       "left": "5 · Wed., July 7 · Pontorson–Plumelec",
+       "right": "178 km, flat/puncheur"
+      },
+      {
+       "left": "6 · Thu., July 8 · Vannes–Angers",
+       "right": "193 km"
+      },
+      {
+       "left": "7 · Fri., July 9 · Blois–Chambord",
+       "right": "38 km time trial"
+      },
+      {
+       "left": "8 · Sat., July 10 · Bourges–Le Creusot",
+       "right": "224 km, hilly, longest"
+      },
+      {
+       "left": "9 · Sun., July 11 · Villars-les-Dombes–Grand Colombier",
+       "right": "162 km, summit finish"
+      },
+      {
+       "kind": "sub",
+       "left": "Rest day Mon., July 12"
+      },
+      {
+       "left": "10 · Tue., July 13 · Annecy–Sallanches",
+       "right": "172 km, mountains"
+      },
+      {
+       "left": "11 · Wed., July 14 · Cluses–Les Saisies",
+       "right": "150 km, mountains"
+      },
+      {
+       "left": "12 · Thu., July 15 · Chambéry–Valence",
+       "right": "162 km, flat"
+      },
+      {
+       "left": "13 · Fri., July 16 · Aubenas–Montpellier",
+       "right": "164 km, flat"
+      },
+      {
+       "left": "14 · Sat., July 17 · Montpellier–Mende",
+       "right": "199 km, uphill finish"
+      },
+      {
+       "left": "15 · Sun., July 18 · Rodez–Albi",
+       "right": "169 km, hilly"
+      },
+      {
+       "kind": "sub",
+       "left": "Rest day Mon., July 19"
+      },
+      {
+       "left": "16 · Tue., July 20 · Toulouse",
+       "right": "33 km time trial"
+      },
+      {
+       "left": "17 · Wed., July 21 · Muret–Pau",
+       "right": "186 km, flat"
+      },
+      {
+       "left": "18 · Thu., July 22 · Pau–Saint-Lary-Soulan (Col du Portet)",
+       "right": "174 km, queen stage, summit finish"
+      },
+      {
+       "left": "19 · Fri., July 23 · Hasparren–Laruns",
+       "right": "160 km, about 4,300 m of climbing"
+      },
+      {
+       "left": "20 · Sat., July 24 · Maubourguet–Libourne",
+       "right": "198 km, flat"
+      },
+      {
+       "left": "21 · Sun., July 25 · Saint-Quentin-en-Yvelines–Paris",
+       "right": "116 km, Montmartre then the Champs-Élysées"
+      },
+      {
+       "kind": "note",
+       "left": "71 km of time trials, the most since 2012, and three summit finishes. Sources disagree on how to label stages 5 and 6, so those types are rough."
+      }
+     ]
+    },
+    {
+     "title": "Giro d'Italia 2027 · Route",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "110th edition · Trieste to Rome · May 8–30 · 3,418.9 km"
+      },
+      {
+       "left": "Stage 1 · Sat., May 8 · Trieste",
+       "right": "172 km, hilly"
+      },
+      {
+       "left": "Stage 2 · Sun., May 9 · Ljubljana–Koper",
+       "right": "166 km, hilly (starts in Slovenia)"
+      },
+      {
+       "left": "Stage 5 · Wed., May 12 · Filottrano–Sarnano-Sassotetto",
+       "right": "139 km, early summit finish"
+      },
+      {
+       "left": "Stage 7 · Fri., May 14 · Sulmona–Campo di Giove",
+       "right": "19.6 km uphill time trial"
+      },
+      {
+       "left": "Second time trial",
+       "right": "Includes Monza; 56.9 km of time trials in all"
+      },
+      {
+       "left": "Stage 20",
+       "right": "Final mountain stage, finishing on Monte Zoncolan"
+      },
+      {
+       "left": "Queen stage",
+       "right": "Double Mortirolo and the Passo Gavia"
+      },
+      {
+       "left": "Stage 21 · Sun., May 30",
+       "right": "Rome"
+      },
+      {
+       "kind": "note",
+       "left": "Seven or eight summit finishes depending on the count. Only stages confirmed by more than one source are listed; ask for a refresh for the full table."
+      }
+     ]
+    },
+    {
+     "title": "Vuelta a España 2027",
+     "rows": [
+      {
+       "left": "Dates",
+       "right": "Sat., Sept. 4 to Sun., Sept. 26"
+      },
+      {
+       "left": "Start",
+       "right": "Santiago de Compostela, first of four stages in Galicia"
+      },
+      {
+       "left": "Finish",
+       "right": "Madrid"
+      },
+      {
+       "kind": "note",
+       "left": "Held in a Jacobean Holy Year. The full route is presented early in 2027; the organizer promised plenty of climbing in the north."
+      }
+     ]
+    },
+    {
+     "title": "Women's WorldTour 2027",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "26 races, 11 countries, 69 race days"
+      },
+      {
+       "left": "Santos Tour Down Under (women)",
+       "right": "Jan. 22–24"
+      },
+      {
+       "left": "Cadel Evans Great Ocean Road Race",
+       "right": "Jan. 30, same course as the men for the first time"
+      },
+      {
+       "left": "Giro d'Italia Women",
+       "right": "May 29–June 6, 9 stages, Tuscan coast to Monte Bianco; stage 8 is an 11 km uphill time trial"
+      },
+      {
+       "left": "Copenhagen Sprint",
+       "right": "June 12"
+      },
+      {
+       "left": "Tour de Suisse Women",
+       "right": "June 16–20"
+      },
+      {
+       "left": "Tour de France Femmes",
+       "right": "July 30–Aug. 7, starts in Leeds, team time trial through London, ends on the Puy de Dôme"
+      },
+      {
+       "left": "Tour of Britain Women",
+       "right": "Aug. 11–15"
+      },
+      {
+       "left": "Classic Lorient Agglomération",
+       "right": "Aug. 21"
+      },
+      {
+       "left": "Vuelta España Femenina",
+       "right": "Moves to the autumn, dates not confirmed"
+      },
+      {
+       "left": "Tour of Chongming Island",
+       "right": "Oct. 12–14, season finale"
+      },
+      {
+       "kind": "note",
+       "left": "The Women's WorldTour now requires WorldTeams to ride all three Grand Tours."
+      }
+     ]
+    },
+    {
      "title": "Road season 2027",
      "rows": [
       {
@@ -698,11 +1105,11 @@
       },
       {
        "left": "Vuelta España Femenina",
-       "right": "Oct. 3–10, 2027"
+       "right": "Autumn, dates not confirmed"
       },
       {
        "kind": "note",
-       "left": "Start towns and stages are not on the calendar yet."
+       "left": "Route details are in the blocks above for the Tour and Giro; the Vuelta route comes early in 2027."
       }
      ]
     },
@@ -743,7 +1150,7 @@
       },
       {
        "kind": "note",
-       "left": "Hosts are in France for every discipline."
+       "left": "Hosts are in France for every discipline, a 'Super Worlds' in Haute-Savoie."
       }
      ]
     },
@@ -832,63 +1239,6 @@
      ]
     },
     {
-     "title": "Cyclo-cross World Cup calendar",
-     "rows": [
-      {
-       "left": "#1 Ostrava (CZE)",
-       "right": "Nov. 27"
-      },
-      {
-       "left": "#2 Tábor (CZE)",
-       "right": "Nov. 29"
-      },
-      {
-       "left": "#3 Glasgow (GBR)",
-       "right": "Dec. 13"
-      },
-      {
-       "left": "#4 Antwerpen (BEL)",
-       "right": "Dec. 19"
-      },
-      {
-       "left": "#5 Koksijde (BEL)",
-       "right": "Dec. 20"
-      },
-      {
-       "left": "#6 Gavere (BEL)",
-       "right": "Dec. 26"
-      },
-      {
-       "left": "#7 Namur (BEL)",
-       "right": "Dec. 27"
-      },
-      {
-       "left": "#8 Besançon (FRA)",
-       "right": "Dec. 29"
-      },
-      {
-       "left": "#9 Zonhoven (BEL)",
-       "right": "Jan. 3, 2027"
-      },
-      {
-       "left": "#10 Benidorm (ESP)",
-       "right": "Jan. 17"
-      },
-      {
-       "left": "#11 Hamme (BEL)",
-       "right": "Jan. 23"
-      },
-      {
-       "left": "#12 Hoogerheide (NED)",
-       "right": "Jan. 24"
-      },
-      {
-       "kind": "note",
-       "left": "Source: UCI calendar, read Nov. 23, 2026. Calendar only: no results or standings are compiled for cycling yet."
-      }
-     ]
-    },
-    {
      "title": "LA28 plan",
      "rows": [
       {
@@ -906,8 +1256,8 @@
      ]
     }
    ],
-   "checked": "Nov. 22, 2026",
-   "source": "UCI calendar"
+   "checked": "Nov. 25, 2026",
+   "source": "UCI, ASO, RCS, Cyclingnews, Domestique, Tour"
   },
   {
    "name": "Equestrian",
