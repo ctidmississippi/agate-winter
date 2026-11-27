@@ -182,7 +182,9 @@
    "title": "CFP National Championship",
    "place": "Allegiant Stadium, Las Vegas",
    "tier": 1,
-   "note": "Mon. 7:30 p.m. ET, ABC/ESPN."
+   "note": "Mon. 7:30 p.m. ET, ABC/ESPN.",
+   "espn": "football/college-football?groups=80",
+   "match": "National Championship"
   },
   {
    "start": "2027-01-27",
@@ -243,7 +245,9 @@
    "title": "Super Bowl LXI",
    "place": "SoFi Stadium, Inglewood, CA",
    "tier": 1,
-   "note": "6:30 p.m. ET on ESPN and ABC, the first Super Bowl on ESPN. Falls on Valentine's Day."
+   "note": "6:30 p.m. ET on ESPN and ABC, the first Super Bowl on ESPN. Falls on Valentine's Day.",
+   "espn": "football/nfl?seasontype=3",
+   "match": "Super Bowl"
   },
   {
    "start": "2027-02-21",
@@ -251,7 +255,9 @@
    "title": "Daytona 500",
    "place": "Daytona International Speedway",
    "tier": 1,
-   "note": "69th running, a week later than usual to avoid the Super Bowl."
+   "note": "69th running, a week later than usual to avoid the Super Bowl.",
+   "espn": "racing/nascar-premier",
+   "match": "Daytona 500"
   },
   {
    "start": "2027-02-24",
@@ -322,7 +328,9 @@
    "end": "2027-04-05",
    "place": "Detroit area, MI",
    "tier": 1,
-   "note": "Semifinals Apr. 3, national championship Apr. 5."
+   "note": "Semifinals Apr. 3, national championship Apr. 5.",
+   "espn": "basketball/mens-college-basketball?groups=50",
+   "match": "National Championship"
   },
   {
    "start": "2027-04-08",
@@ -337,7 +345,9 @@
    "title": "The Masters",
    "end": "2027-04-11",
    "place": "Augusta, GA",
-   "tier": 1
+   "tier": 1,
+   "espn": "golf/pga",
+   "match": "Masters"
   },
   {
    "start": "2027-04-19",
@@ -377,7 +387,9 @@
    "title": "PGA Championship",
    "end": "2027-05-23",
    "place": "Frisco, TX",
-   "tier": 1
+   "tier": 1,
+   "espn": "golf/pga",
+   "match": "PGA Championship"
   },
   {
    "start": "2027-05-22",
@@ -427,7 +439,9 @@
    "sport": "Golf",
    "title": "U.S. Open",
    "end": "2027-06-20",
-   "tier": 1
+   "tier": 1,
+   "espn": "golf/pga",
+   "match": "U.S. Open"
   },
   {
    "start": "2027-06-16",
@@ -477,7 +491,9 @@
    "title": "The Open Championship",
    "end": "2027-07-18",
    "place": "St Andrews, SCO",
-   "tier": 1
+   "tier": 1,
+   "espn": "golf/pga",
+   "match": "Open Championship"
   },
   {
    "start": "2027-07-30",
