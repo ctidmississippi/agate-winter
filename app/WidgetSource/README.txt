@@ -5,7 +5,7 @@ To use it:
 2. Run the Agate scheme on your iPhone.
 3. Touch and hold the home screen > + > Don't Miss. For the lock screen: long-press it > Customize > add Don't Miss.
 
-AgateWidget/GameActivity.swift is a copy of Agate/Data/GameActivity.swift (the Live Activity type). If one changes, change both.
+AgateWidget/GameActivity.swift holds a copy of the Live Activity attributes type from Agate/Data/GameActivity.swift. If that type changes, change both.
 The widget reads events.json from the agate-winter GitHub repo, at most every 6 hours, and keeps its own copy for offline use.
 
 Background alerts (close-game alerts, nightly summary):
