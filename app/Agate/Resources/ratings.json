@@ -1,0 +1,143 @@
+{
+ "updated": "Wed., Nov. 25, 2026",
+ "note": "Hand-compiled advanced ratings. Refreshed when you ask.",
+ "sports": [
+  {
+   "name": "Barttorvik (T-Rank)",
+   "checked": "Nov. 25, 2026",
+   "source": "barttorvik.com",
+   "blocks": [
+    {
+     "title": "Top 25 · men's basketball",
+     "rows": [
+      {
+       "kind": "sub",
+       "left": "Rank · team · record",
+       "right": "AdjO / AdjD · Barthag"
+      },
+      {
+       "left": "1. Houston (B12) 6-0",
+       "right": "124.7 / 93.9 · .9631"
+      },
+      {
+       "left": "2. Illinois (B10) 6-1",
+       "right": "127.0 / 97.2 · .9561"
+      },
+      {
+       "left": "3. Florida (SEC) 6-1",
+       "right": "124.8 / 96.4 · .9515"
+      },
+      {
+       "left": "4. Kansas (B12) 6-1",
+       "right": "122.4 / 94.5 · .9512"
+      },
+      {
+       "left": "5. Duke (ACC) 4-2",
+       "right": "119.9 / 93.3 · .9471"
+      },
+      {
+       "left": "6. Virginia (ACC) 7-0",
+       "right": "123.9 / 96.9 · .9442"
+      },
+      {
+       "left": "7. Arizona (B12) 5-1",
+       "right": "122.2 / 95.7 · .9429"
+      },
+      {
+       "left": "8. Connecticut (BE) 4-1",
+       "right": "120.0 / 94.6 · .9392"
+      },
+      {
+       "left": "9. Texas Tech (B12) 5-0",
+       "right": "120.7 / 95.7 · .9349"
+      },
+      {
+       "left": "10. Michigan St. (B10) 5-1",
+       "right": "119.9 / 95.2 · .9343"
+      },
+      {
+       "left": "11. Gonzaga (P12) 3-1",
+       "right": "123.2 / 98.4 · .9299"
+      },
+      {
+       "left": "12. St. John's (BE) 5-0",
+       "right": "119.7 / 95.8 · .9283"
+      },
+      {
+       "left": "13. Nebraska (B10) 6-0",
+       "right": "118.7 / 95.3 · .9255"
+      },
+      {
+       "left": "14. Vanderbilt (SEC) 6-0",
+       "right": "119.2 / 95.9 · .9243"
+      },
+      {
+       "left": "15. Miami FL (ACC) 5-1",
+       "right": "119.6 / 96.4 · .9221"
+      },
+      {
+       "left": "16. Iowa St. (B12) 3-1",
+       "right": "115.7 / 93.4 · .9214"
+      },
+      {
+       "left": "17. UCLA (B10) 6-0",
+       "right": "120.5 / 97.8 · .9165"
+      },
+      {
+       "left": "18. Michigan (B10) 3-2",
+       "right": "119.2 / 96.9 · .9151"
+      },
+      {
+       "left": "19. Tennessee (SEC) 5-0",
+       "right": "117.4 / 95.7 · .9128"
+      },
+      {
+       "left": "20. Texas (SEC) 6-0",
+       "right": "120.8 / 98.8 · .9097"
+      },
+      {
+       "left": "21. USC (B10) 6-0",
+       "right": "118.0 / 96.8 · .9069"
+      },
+      {
+       "left": "22. Alabama (SEC) 5-0",
+       "right": "121.8 / 100.1 · .9053"
+      },
+      {
+       "left": "23. Louisville (ACC) 3-1",
+       "right": "119.8 / 98.5 · .9049"
+      },
+      {
+       "left": "24. Missouri (SEC) 5-1",
+       "right": "120.1 / 98.9 · .9032"
+      },
+      {
+       "left": "25. BYU (B12) 6-0",
+       "right": "121.7 / 100.4 · .9011"
+      },
+      {
+       "kind": "note",
+       "left": "AdjO and AdjD are points per 100 possessions against an average team; Barthag is the chance of beating an average Division I team."
+      }
+     ]
+    }
+   ]
+  },
+  {
+   "name": "KenPom and SP+",
+   "checked": "Nov. 25, 2026",
+   "source": "Not compiled",
+   "blocks": [
+    {
+     "title": "Paywalled",
+     "rows": [
+      {
+       "kind": "note",
+       "left": "KenPom and ESPN's SP+ publish their full tables behind subscriptions, so they aren't compiled here. ESPN's live FPI (football) and BPI (basketball) cover similar ground and are at the top of this page."
+      }
+     ]
+    }
+   ]
+  }
+ ]
+}

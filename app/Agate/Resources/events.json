@@ -1,0 +1,555 @@
+{
+ "updated": "2026-11-25",
+ "events": [
+  {
+   "start": "2026-11-26",
+   "sport": "Biathlon",
+   "title": "Biathlon World Cup opens",
+   "end": "2026-11-29",
+   "place": "Kontiolahti, FIN",
+   "note": "Individual races Nov. 26 (men) and 27 (women)."
+  },
+  {
+   "start": "2026-11-26",
+   "sport": "Skiing",
+   "title": "Big Air World Cup",
+   "end": "2026-11-28",
+   "place": "Innsbruck, AUT",
+   "note": "Freeski finals Nov. 27, snowboard finals Nov. 28."
+  },
+  {
+   "start": "2026-11-27",
+   "sport": "Skiing",
+   "title": "Cross-country World Cup opens",
+   "end": "2026-11-29",
+   "place": "Ruka, FIN",
+   "note": "10 km Fri., sprint Sat., 20 km mass start Sun."
+  },
+  {
+   "start": "2026-11-27",
+   "sport": "Figure skating",
+   "title": "NHK Trophy",
+   "end": "2026-11-29",
+   "place": "Tokyo, JPN"
+  },
+  {
+   "start": "2026-11-27",
+   "sport": "Tennis",
+   "title": "Davis Cup Finals semifinals",
+   "end": "2026-11-29",
+   "place": "Bologna, ITA",
+   "note": "Final Sun. Nov. 29, 15:00 CET."
+  },
+  {
+   "start": "2026-11-28",
+   "sport": "Skiing",
+   "title": "Alpine World Cup, North America",
+   "end": "2026-11-29",
+   "place": "Killington / Copper Mountain",
+   "note": "Women's GS and SL at Killington; men's SG and GS at Copper."
+  },
+  {
+   "start": "2026-11-28",
+   "sport": "Racing",
+   "title": "SailGP Grand Final",
+   "end": "2026-11-29",
+   "place": "Abu Dhabi"
+  },
+  {
+   "start": "2026-12-01",
+   "sport": "Aquatics",
+   "title": "Short Course World Championships",
+   "end": "2026-12-06",
+   "place": "Beijing, CHN",
+   "tier": 1,
+   "note": "Heats 10:00, finals 19:00 local. Marchand expected."
+  },
+  {
+   "start": "2026-12-03",
+   "sport": "Skiing",
+   "title": "Beaver Creek men's World Cup",
+   "end": "2026-12-06",
+   "place": "Beaver Creek, CO",
+   "note": "Birds of Prey, 4 races."
+  },
+  {
+   "start": "2026-12-06",
+   "sport": "Football",
+   "title": "CFP bracket revealed",
+   "tier": 1,
+   "note": "Seeds and first-round matchups announced Sunday."
+  },
+  {
+   "start": "2026-12-06",
+   "sport": "Running",
+   "title": "Valencia Marathon",
+   "place": "Valencia, ESP",
+   "note": "Platinum label; Kejelcha's second marathon."
+  },
+  {
+   "start": "2026-12-08",
+   "sport": "Surfing",
+   "title": "Lexus Pipe Pro, tour finale",
+   "end": "2026-12-20",
+   "place": "Pipeline, Oahu",
+   "tier": 1,
+   "note": "Decides the 2026 world titles. Waiting period Dec. 8–20."
+  },
+  {
+   "start": "2026-12-09",
+   "sport": "Table tennis",
+   "title": "WTT Finals",
+   "end": "2026-12-13",
+   "place": "Hong Kong"
+  },
+  {
+   "start": "2026-12-10",
+   "sport": "Figure skating",
+   "title": "Grand Prix Final",
+   "end": "2026-12-13",
+   "place": "Chongqing, CHN",
+   "tier": 1,
+   "note": "Senior and junior."
+  },
+  {
+   "start": "2026-12-12",
+   "sport": "Boxing",
+   "title": "Bivol v Smith",
+   "place": "Yekaterinburg, RUS"
+  },
+  {
+   "start": "2026-12-18",
+   "sport": "Football",
+   "title": "CFP first round",
+   "end": "2026-12-19",
+   "place": "Campus sites",
+   "tier": 1,
+   "note": "Fri. Dec. 18 (8 p.m. ET, ESPN) and Sat. Dec. 19 (noon ABC/ESPN, 3:30 and 7:30 TNT)."
+  },
+  {
+   "start": "2026-12-26",
+   "sport": "Hockey",
+   "title": "World Junior Championship",
+   "end": "2027-01-05",
+   "place": "Edmonton and Red Deer, AB",
+   "tier": 1,
+   "note": "Sweden defends. Group A in Red Deer, Group B in Edmonton. Playoff times Eastern."
+  },
+  {
+   "start": "2026-12-28",
+   "sport": "Skiing",
+   "title": "Four Hills Tournament opens",
+   "end": "2027-01-06",
+   "place": "Oberstdorf, GER",
+   "note": "First women's edition. Garmisch Dec. 31–Jan. 1, Innsbruck Jan. 2–3, Bischofshofen Jan. 5–6."
+  },
+  {
+   "start": "2026-12-30",
+   "sport": "Football",
+   "title": "CFP quarterfinal · Fiesta Bowl",
+   "place": "Glendale, AZ",
+   "tier": 1,
+   "note": "7:30 p.m. ET, TNT."
+  },
+  {
+   "start": "2027-01-01",
+   "sport": "Football",
+   "title": "CFP quarterfinals · Cotton, Peach, Rose",
+   "place": "Arlington / Atlanta / Pasadena",
+   "tier": 1,
+   "note": "Noon TNT, 4 p.m. ABC, 8 p.m. ESPN (order set on Selection Day)."
+  },
+  {
+   "start": "2027-01-01",
+   "sport": "Skiing",
+   "title": "Tour de Ski",
+   "end": "2027-01-10",
+   "place": "Les Rousses, Oberstdorf, Val di Fiemme",
+   "note": "Proposed Dec. 31–Jan. 10; stops Jan. 1–3, Jan. 5–6, Jan. 8–10."
+  },
+  {
+   "start": "2027-01-14",
+   "sport": "Football",
+   "title": "CFP semifinal · Orange Bowl",
+   "end": "2027-01-15",
+   "place": "Miami Gardens, FL",
+   "tier": 1,
+   "note": "Second semifinal is the Sugar Bowl, Fri. Jan. 15, New Orleans."
+  },
+  {
+   "start": "2027-01-25",
+   "sport": "Football",
+   "title": "CFP National Championship",
+   "place": "Allegiant Stadium, Las Vegas",
+   "tier": 1,
+   "note": "Mon. 7:30 p.m. ET, ABC/ESPN.",
+   "espn": "football/college-football?groups=80",
+   "match": "National Championship"
+  },
+  {
+   "start": "2027-01-27",
+   "sport": "Figure skating",
+   "title": "European Championships",
+   "end": "2027-01-31",
+   "place": "Lausanne, SUI"
+  },
+  {
+   "start": "2027-01-29",
+   "sport": "Cycling",
+   "title": "Cyclo-cross World Championships",
+   "end": "2027-01-31",
+   "place": "Ostend, BEL",
+   "tier": 1
+  },
+  {
+   "start": "2027-01-31",
+   "sport": "Football",
+   "title": "NFL conference championships",
+   "tier": 1,
+   "note": "Sets the Super Bowl matchup."
+  },
+  {
+   "start": "2027-02-01",
+   "sport": "Skiing",
+   "title": "Alpine World Championships",
+   "end": "2027-02-14",
+   "place": "Crans-Montana, SUI",
+   "tier": 1,
+   "note": "Biggest alpine event of the season."
+  },
+  {
+   "start": "2027-02-01",
+   "sport": "Luge",
+   "title": "Luge World Championships",
+   "end": "2027-02-07",
+   "place": "Innsbruck-Igls, AUT"
+  },
+  {
+   "start": "2027-02-05",
+   "sport": "Rugby",
+   "title": "Six Nations",
+   "end": "2027-03-13",
+   "place": "UK, Ireland, France, Italy",
+   "tier": 1,
+   "note": "Ireland v England opens Fri. Feb. 5; Ireland also close it."
+  },
+  {
+   "start": "2027-02-13",
+   "sport": "Racing",
+   "title": "NASCAR Clash at Daytona",
+   "place": "Daytona Beach, FL"
+  },
+  {
+   "start": "2027-02-14",
+   "sport": "Football",
+   "title": "Super Bowl LXI",
+   "place": "SoFi Stadium, Inglewood, CA",
+   "tier": 1,
+   "note": "6:30 p.m. ET on ESPN and ABC, the first Super Bowl on ESPN. Falls on Valentine's Day.",
+   "espn": "football/nfl?seasontype=3",
+   "match": "Super Bowl"
+  },
+  {
+   "start": "2027-02-21",
+   "sport": "Racing",
+   "title": "Daytona 500",
+   "place": "Daytona International Speedway",
+   "tier": 1,
+   "note": "69th running, a week later than usual to avoid the Super Bowl.",
+   "espn": "racing/nascar-premier",
+   "match": "Daytona 500"
+  },
+  {
+   "start": "2027-02-24",
+   "sport": "Skiing",
+   "title": "Nordic World Championships",
+   "end": "2027-03-07",
+   "place": "Falun, SWE",
+   "tier": 1,
+   "note": "Cross-country, ski jumping, Nordic combined."
+  },
+  {
+   "start": "2027-02-25",
+   "sport": "Speed skating",
+   "title": "Speed skating World Championships",
+   "end": "2027-02-28",
+   "place": "Beijing, CHN"
+  },
+  {
+   "start": "2027-03-07",
+   "sport": "Skiing",
+   "title": "Snowboard and freestyle World Championships",
+   "end": "2027-03-20",
+   "place": "Montafon, AUT",
+   "tier": 1
+  },
+  {
+   "start": "2027-03-12",
+   "sport": "Short track",
+   "title": "Short track World Championships",
+   "end": "2027-03-14",
+   "place": "Seoul, KOR"
+  },
+  {
+   "start": "2027-03-18",
+   "sport": "Biathlon",
+   "title": "Biathlon World Cup finals",
+   "end": "2027-03-21",
+   "place": "Oslo Holmenkollen, NOR"
+  },
+  {
+   "start": "2027-03-18",
+   "sport": "Skiing",
+   "title": "Ski flying finals",
+   "end": "2027-03-21",
+   "place": "Planica, SLO",
+   "note": "Season finale."
+  },
+  {
+   "start": "2027-03-18",
+   "sport": "Wrestling",
+   "title": "NCAA Wrestling Championships",
+   "end": "2027-03-20",
+   "place": "St. Louis, MO",
+   "tier": 1,
+   "note": "Three days of finals."
+  },
+  {
+   "start": "2027-03-20",
+   "sport": "Triathlon",
+   "title": "T100 Gold Coast",
+   "end": "2027-03-21",
+   "place": "Gold Coast, AUS"
+  },
+  {
+   "start": "2027-04-03",
+   "sport": "Basketball",
+   "title": "NCAA Men's Final Four",
+   "end": "2027-04-05",
+   "place": "Detroit area, MI",
+   "tier": 1,
+   "note": "Semifinals Apr. 3, national championship Apr. 5.",
+   "espn": "basketball/mens-college-basketball?groups=50",
+   "match": "National Championship"
+  },
+  {
+   "start": "2027-04-08",
+   "sport": "Figure skating",
+   "title": "World Team Trophy",
+   "end": "2027-04-11",
+   "place": "Tokyo, JPN"
+  },
+  {
+   "start": "2027-04-08",
+   "sport": "Golf",
+   "title": "The Masters",
+   "end": "2027-04-11",
+   "place": "Augusta, GA",
+   "tier": 1,
+   "espn": "golf/pga",
+   "match": "Masters"
+  },
+  {
+   "start": "2027-04-19",
+   "sport": "Running",
+   "title": "Boston Marathon",
+   "place": "Boston, MA",
+   "tier": 1,
+   "note": "Patriots' Day."
+  },
+  {
+   "start": "2027-05-01",
+   "sport": "Horse racing",
+   "title": "Kentucky Derby",
+   "place": "Louisville, KY",
+   "tier": 1
+  },
+  {
+   "start": "2027-05-08",
+   "sport": "Cycling",
+   "title": "Giro d'Italia",
+   "end": "2027-05-30",
+   "place": "Trieste to Rome",
+   "tier": 1,
+   "note": "110th edition, 3,419 km. Stage 1 Sat. May 8; Zoncolan on stage 20."
+  },
+  {
+   "start": "2027-05-17",
+   "sport": "Tennis",
+   "title": "French Open",
+   "end": "2027-06-06",
+   "place": "Roland-Garros, Paris",
+   "tier": 1
+  },
+  {
+   "start": "2027-05-20",
+   "sport": "Golf",
+   "title": "PGA Championship",
+   "end": "2027-05-23",
+   "place": "Frisco, TX",
+   "tier": 1,
+   "espn": "golf/pga",
+   "match": "PGA Championship"
+  },
+  {
+   "start": "2027-05-22",
+   "sport": "Soccer",
+   "title": "FA Cup final",
+   "place": "Wembley, London"
+  },
+  {
+   "start": "2027-05-26",
+   "sport": "Soccer",
+   "title": "Europa League final",
+   "place": "Frankfurt, GER"
+  },
+  {
+   "start": "2027-05-29",
+   "sport": "Cycling",
+   "title": "Giro d'Italia Women",
+   "end": "2027-06-06",
+   "place": "Tuscan coast to Monte Bianco",
+   "note": "9 stages."
+  },
+  {
+   "start": "2027-05-30",
+   "sport": "Soccer",
+   "title": "Premier League final day",
+   "place": "England",
+   "note": "All ten matches 16:00."
+  },
+  {
+   "start": "2027-06-05",
+   "sport": "Soccer",
+   "title": "Champions League final",
+   "place": "Estadio Metropolitano, Madrid",
+   "tier": 1
+  },
+  {
+   "start": "2027-06-06",
+   "sport": "Cycling",
+   "title": "Tour Auvergne-Rhône-Alpes (formerly the Dauphiné)",
+   "end": "2027-06-13",
+   "place": "France",
+   "tier": 1,
+   "note": "Main Tour de France warm-up. Opening stage Sun. June 6."
+  },
+  {
+   "start": "2027-06-16",
+   "sport": "Golf",
+   "title": "U.S. Open",
+   "end": "2027-06-20",
+   "tier": 1,
+   "espn": "golf/pga",
+   "match": "U.S. Open"
+  },
+  {
+   "start": "2027-06-16",
+   "sport": "Cycling",
+   "title": "Tour de Suisse",
+   "end": "2027-06-20",
+   "place": "Switzerland"
+  },
+  {
+   "start": "2027-06-24",
+   "sport": "Soccer",
+   "title": "FIFA Women's World Cup",
+   "end": "2027-07-25",
+   "place": "Brazil",
+   "tier": 1,
+   "note": "Final July 25 at the Maracanã."
+  },
+  {
+   "start": "2027-06-26",
+   "sport": "Aquatics",
+   "title": "World Aquatics Championships",
+   "end": "2027-07-18",
+   "place": "Budapest, HUN",
+   "tier": 1,
+   "note": "Water polo starts June 26; artistic swimming July 10–17."
+  },
+  {
+   "start": "2027-06-28",
+   "sport": "Tennis",
+   "title": "Wimbledon",
+   "end": "2027-07-11",
+   "place": "London",
+   "tier": 1
+  },
+  {
+   "start": "2027-07-02",
+   "sport": "Cycling",
+   "title": "Tour de France",
+   "end": "2027-07-25",
+   "place": "Edinburgh to Paris",
+   "tier": 1,
+   "note": "114th edition, 21 stages, 3,479 km. Stage 1 Edinburgh–Carlisle, Fri. July 2."
+  },
+  {
+   "start": "2027-07-15",
+   "sport": "Golf",
+   "title": "The Open Championship",
+   "end": "2027-07-18",
+   "place": "St Andrews, SCO",
+   "tier": 1,
+   "espn": "golf/pga",
+   "match": "Open Championship"
+  },
+  {
+   "start": "2027-07-30",
+   "sport": "Cycling",
+   "title": "Tour de France Femmes",
+   "end": "2027-08-07",
+   "place": "Leeds to Puy de Dôme",
+   "tier": 1
+  },
+  {
+   "start": "2027-08-24",
+   "sport": "Cycling",
+   "title": "Road World Championships",
+   "end": "2027-09-05",
+   "place": "Haute-Savoie, FRA",
+   "tier": 1,
+   "note": "Part of the France 'Super Worlds'; track Aug. 26–30, MTB Aug. 26–Sept. 4."
+  },
+  {
+   "start": "2027-09-04",
+   "sport": "Cycling",
+   "title": "Vuelta a España",
+   "end": "2027-09-26",
+   "place": "Santiago de Compostela to Madrid",
+   "tier": 1
+  },
+  {
+   "start": "2027-09-10",
+   "sport": "Athletics",
+   "title": "World Athletics Championships",
+   "end": "2027-09-19",
+   "place": "Beijing, CHN",
+   "tier": 1
+  },
+  {
+   "start": "2027-09-17",
+   "sport": "Golf",
+   "title": "Ryder Cup",
+   "end": "2027-09-19",
+   "place": "Adare Manor, IRL",
+   "tier": 1
+  },
+  {
+   "start": "2027-10-01",
+   "sport": "Rugby",
+   "title": "Rugby World Cup",
+   "end": "2027-11-13",
+   "place": "Australia",
+   "tier": 1
+  },
+  {
+   "start": "2027-10-29",
+   "sport": "Gymnastics",
+   "title": "Artistic Gymnastics World Championships",
+   "end": "2027-11-08",
+   "place": "Chengdu, CHN"
+  }
+ ]
+}

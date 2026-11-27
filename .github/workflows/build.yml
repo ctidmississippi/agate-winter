@@ -1,0 +1,20 @@
+name: Build app
+on:
+  push:
+    paths: ["app/**", ".github/workflows/build.yml"]
+  workflow_dispatch:
+jobs:
+  build:
+    runs-on: macos-15
+    defaults:
+      run:
+        working-directory: app
+    steps:
+      - uses: actions/checkout@v4
+      - name: Build for the iOS simulator
+        run: |
+          xcodebuild -project Agate.xcodeproj -scheme Agate \
+            -destination 'generic/platform=iOS Simulator' \
+            CODE_SIGNING_ALLOWED=NO build > build.log 2>&1 || true
+          grep -E "error:" build.log | sort -u | head -40 | while IFS= read -r l; do echo "::error::${l#*Agate/}"; done
+          grep -q "BUILD SUCCEEDED" build.log
